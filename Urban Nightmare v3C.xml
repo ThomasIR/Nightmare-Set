@@ -1,0 +1,4607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Wake Up</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target Nightmare or enchantment.</text>
+    </card>
+    <card>
+      <name>Amnestic Dose</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature loses all abilities and is a colorless Human Citizen creature with base power and toughness 1/1.</text>
+    </card>
+    <card>
+      <name>Wayward Aspirant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with one or more aberrant creatures, Wayward Aspirant gets +2/+0 and gains menace until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Immemnon&apos;s Retriever</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Immemnon’s Retriever enters, you may put target card from a graveyard on top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Liminal Sentry</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Unicorn </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Liminal Sentry can’t attack unless it’s aberrant. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Memory Extraction</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a permanent card from it that’s one or more colors. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Containment Operative</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once during each of your turns, when a card is put into exile, you draw a card and gain 1 life.</text>
+    </card>
+    <card>
+      <name>Oblivion Scavenger</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Fungus </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Aberrant creature spells you cast cost {1} less to cast. (A creature is aberrant if its power and toughness aren’t equal.)
+Whenever another aberrant creature you control dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Fervid Aspirant</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Fervid Aspirant enters, put a +1/-1 counter on target creature.
+Each creature you control with a +1/-1 counter on it has menace.</text>
+    </card>
+    <card>
+      <name>Priest of Yl-Tesim</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Horror Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, haste
+Whenever Priest of Yl-Tesim attacks or blocks, if it’s aberrant, it gains menace and lifelink until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Occult Experiment</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top four cards of your library. Until the end of your next turn, you may cast noncreature, nonland cards exiled this way.
+Reproduce 4UR (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Dream-Lab Prototype</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Construct </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Dream-Lab Prototype attacks, draw a card, then discard a card.
+When Dream-Lab Prototype dies, you may exile it. If you do, return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Profane Creation</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+2RG: Target creature must be blocked this turn if able.</text>
+    </card>
+    <card>
+      <name>Throne of Czendramahlix</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>2WB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a non-Thrull creature you control dies, create a 0/1 black Thrull creature token.
+{1}, Sacrifice a creature: Target player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Aeons&apos; Emissary</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Aeons’ Emissary enters or attacks, mill two cards, then return a land card from your graveyard to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Unanimist Conviction</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+0 for each enchantment you control and has trample and lifelink.
+3GW: Return Unanimist Conviction from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Fleshwarp</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put three +1/-1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Congealed Dreamstuff</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>2/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Congealed Dreamstuff must be blocked if able.</text>
+    </card>
+    <card>
+      <name>Distended Wretch</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Failed Prototype</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Whenever Failed Prototype attacks, it deals 1 damage to target creature you control.</text>
+    </card>
+    <card>
+      <name>Beloved Flesh</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ooze Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+When Beloved Flesh enters, you may have it fight another target creature.</text>
+    </card>
+    <card>
+      <name>Overgrown Pumpkin</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>0/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Haunting Musician</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Whenever Haunting Musician attacks, defending player loses 2 life.</text>
+    </card>
+    <card>
+      <name>Devout Occultist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn and a card was put into exile this turn, Devout Occultist gets +1/+0 and has lifelink.</text>
+    </card>
+    <card>
+      <name>Wayward Apparition</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Wayward Apparition enters with a +1/-1 counter on it.
+2W, Remove a +1/-1 counter from Wayward Apparition: Wayward Apparition gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Unsettling Watchers</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Eye </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Omen 3W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3W after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Cold-Blooded Agent</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Cold-Blooded Agent enters, scry 1, then you gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Banishment Squad</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Banishment Squad enters, choose one—
+• Exile another target creature. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+• Create a 1/1 white Human Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Eager Deathseeker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Eager Deathseeker dies, create an X/X black Spirit Warlock creature token with menace, where X is its power.</text>
+    </card>
+    <card>
+      <name>Fanatical Dreamer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1W, Sacrifice another creature or an enchantment: Until end of turn, Fanatical Dreamer has base power and toughness 3/2, gains flying, and becomes a Nightmare Angel.</text>
+    </card>
+    <card>
+      <name>Impassioned Preacher</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature gets +1/+0 and gains vigilance until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Keep Contained</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Keep Contained enters, exile target creature an opponent controls until Keep Contained leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Ghostly Visitation</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Spirit creature tokens with flying.
+Omen 1W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 1W after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Faithful Aspirant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Faithful Aspirant attacks, if it’s aberrant, it gains flying until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Solemn Gatekeeper</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Solemn Gatekeeper enters, you may return another permanent you control to its owner’s hand. If you return an enchantment  this way, create a 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Faith in the One</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +2/+0 and gains your choice of first strike or lifelink. Scry 1.</text>
+    </card>
+    <card>
+      <name>Miraculous Ascension</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +1/+2 and has flying.</text>
+    </card>
+    <card>
+      <name>Subsumed by Dream</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target tapped creature.
+Omen {W} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {W} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Unanimist Clergy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Rites of the All-Dream</name>
+      <set rarity="mythic" splitterPath="/Rites of the All-Dream.png" ></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Mill five cards, then return all land cards from your graveyard to the battlefield tapped. Then if you control ten or more lands, put Rites of the All-Dream onto the battlefield transformed.
+---
+(Back): Immemnon</text>
+      <related attach="transform">Immemnon</related>
+    </card>
+    <card>
+      <name>Immemnon</name>
+      <set rarity="mythic" splitterPath="/Immemnon.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare God </type>
+        <pt>10/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, hexproof
+If you would draw a card, draw two cards instead.
+If you tap a permanent for mana, it produces twice as much of that mana instead.
+---
+(Front): Rites of the All-Dream</text>
+    </card>
+    <card>
+      <name>Rites of the Holy Flesh</name>
+      <set rarity="mythic" splitterPath="/Rites of the Holy Flesh.png" ></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Rites of the Holy Flesh deals 5 damage divided as you choose among any number of targets and you gain 5 life. Then if sources you controlled have dealt 10 or more noncombat damage this turn, put Rites of the Holy Flesh onto the battlefield transformed.
+---
+(Back): Yl-Tesim</text>
+      <related attach="transform">Yl-Tesim</related>
+    </card>
+    <card>
+      <name>Yl-Tesim</name>
+      <set rarity="mythic" splitterPath="/Yl-Tesim.png" ></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare God </type>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, lifelink
+When this permanent enters or transforms into Yl-Tesim, create Yl-Tesim’s Reflection, a 6/3 red and white Nightmare God Reflection creature token with flying and menace.
+Sacrifice a God: Exile Yl-Tesim. Return it to the battlefield transformed under its owner’s control at the beginning of the next end step.
+---
+(Front): Rites of the Holy Flesh</text>
+    </card>
+    <card>
+      <name>Rites of the Ever-Worm</name>
+      <set rarity="mythic" splitterPath="/Rites of the Ever-Worm.png" ></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield. Then if you control ten or more creatures, put Rites of the Ever-Worm onto the battlefield transformed.
+---
+(Back): Hafnordrun</text>
+      <related attach="transform">Hafnordrun</related>
+    </card>
+    <card>
+      <name>Hafnordrun</name>
+      <set rarity="mythic" splitterPath="/Hafnordrun.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare God </type>
+        <pt>7/10</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, lifelink
+Whenever a creature you control dies, return target card from your graveyard to your hand.
+---
+(Front): Rites of the Ever-Worm</text>
+    </card>
+    <card>
+      <name>Rites of the Eschaton</name>
+      <set rarity="mythic" splitterPath="/Rites of the Eschaton.png" ></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>3UR</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard any number of cards, then draw X cards and create X Treasure tokens, where X is that number plus one. Then if you’ve drawn ten or more cards this turn, put Rites of the Eschaton onto the battlefield transformed.
+---
+(Back): Atziloteph</text>
+      <related attach="transform">Atziloteph</related>
+    </card>
+    <card>
+      <name>Atziloteph</name>
+      <set rarity="mythic" splitterPath="/Atziloteph.png" ></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare God </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, hexproof from instants
+Whenever you cast an instant or sorcery spell, you may copy that spell. If you’ve cast ten or more spells this turn, instead copy that spell up to ten times. You may choose new targets for the copies.
+---
+(Front): Rites of the Eschaton</text>
+    </card>
+    <card>
+      <name>Spectral Guidance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard a card.
+Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Somnolent Snare</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to two target creatures. Put a stun counter on each of them.
+Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Display of Talent</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Display of Talent deals 1 damage to each of up to two target creatures. Those creatures can’t block this turn.
+Reproduce 4R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Embrace Death</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gains deathtouch until end of turn. When that creature dies this turn, if it’s aberrant, return it to the battlefield under its owner’s control. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Incongruous Growth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+0 and gains trample until end of turn. Prevent the next 3 damage that would be dealt to it this turn.</text>
+    </card>
+    <card>
+      <name>Embodiment of Pain</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Embodiment of Pain enters, put a +1/-1 counter on target creature you control.
+When Embodiment of Pain dies, you may put its +1/-1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Abduct for Study</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If that creature was aberrant, draw a card. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Peculiar Affliction</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Peculiar Affliction enters, it deals 2 damage to enchanted creature.
+Enchanted creature has mutable. (It’s dealt damage in the form of +1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Hinterland Pet</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an aberrant creature you control attacks, you gain 1 life. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Conjured Servitor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Conjured Servitor enters with two +1/-1 counters on it.
+Whenever Conjured Servitor attacks, put a +1/-1 counter on it unless you remove a +1/-1 counter from it.</text>
+    </card>
+    <card>
+      <name>Containment Squad</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Containment Squad enters, choose one—
+• Tap target creature and put a stun counter on it.
+• Create a 1/1 white Human Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Strange Disappearance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose up to two target nonland permanents controlled by different players. Return those permanents to their owners’ hands.
+Omen {U} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {U} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Vortex Mage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vortex Mage enters, the owner of up to one target nonland permanent puts it on the top or bottom of their library.</text>
+    </card>
+    <card>
+      <name>Voice of the Drowned</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1U, Exile two cards from your graveyard: Voice of the Drowned can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Uncaged Cryptid</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Drake </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Omen 2U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2U after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Emergency Task Force</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Emergency Task Force enters, target creature gets +0/+2 or -2/-0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Skincover</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature has base power and toughness 3/3 until end of turn. Remove all counters from it.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Redact</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target Nightmare or noncreature spell unless its controller pays {4}.</text>
+    </card>
+    <card>
+      <name>Foreboding Dream</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Scry 1.
+Omen 1U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 1U after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Curious Occultist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Curious Occultist enters, each player draws a card, then discards a card.</text>
+    </card>
+    <card>
+      <name>Astral Projection</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you cast a noncreature spell, scry 1.</text>
+    </card>
+    <card>
+      <name>Caged Anomaly</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nightmare Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Caged Anomaly attacks, sacrifice it unless a card was put into exile this turn.</text>
+    </card>
+    <card>
+      <name>Coax the Dead</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then return up to two creature cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Midnight Apparition</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Midnight Apparition enters, exile up to one target card from a graveyard.</text>
+    </card>
+    <card>
+      <name>Doomed Dreamer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Doomed Dreamer dies, create a 3/2 black Nightmare creature token.</text>
+    </card>
+    <card>
+      <name>Lifetime Guarantee</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1.
+When enchanted creature dies, return that card to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Demonic Deal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 2 life unless they discard a card. You gain 2 life and draw a card.
+Reproduce 4B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Veteran Hemomancer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2B, Sacrifice a creature: You gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Bloodbound Youth</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, lifelink</text>
+    </card>
+    <card>
+      <name>Ambitious Occultist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice another creature: Ambitious Occultist gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Phobic Herald</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5B</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Omen 3B (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3B after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Ravenous Rats</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ravenous Rats enters, target opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Nightmares&apos; Claim</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker.
+Omen 2B (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2B after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Kinetic Adept</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Kinetic Adept gets +1/+1 as long as it’s aberrant. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Tide of Gore</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tide of Gore deals 3 damage to any target.
+Omen {R} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {R} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Vand&apos;s Influence</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+At the beginning of the next end step, if you cast two or more noncreature spells this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Anomalous Escalation</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Create two 1/1 red Human Rogue creature tokens.
+• Creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Break Cover</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature gets +3/+0 and gains your choice of first strike or menace. Scry 1.</text>
+    </card>
+    <card>
+      <name>Tempting Discovery</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top two cards of your library. Put one of them into your hand and exile the other. You may play the exiled card this turn. When you do, Tempting Discovery deals 2 damage to you.</text>
+    </card>
+    <card>
+      <name>Vengeful Occultist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Vengeful Occultist enters, put a +1/-1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>Discordant Mob</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Rogue Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Discordant Mob attacks each combat if able.</text>
+    </card>
+    <card>
+      <name>Pyre-Born Effigy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Pyre-Born Effigy enters, you may discard a card. If you do, draw a card.
+{T}: Add {C}. Spend this mana only to cast a noncreature spell.</text>
+    </card>
+    <card>
+      <name>Intrusive Animus</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Giant </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Omen 2R (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2R after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Echo of Wildfire</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Treefolk </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Echo of Wildfire attacks, it deals damage equal to its power to defending player.</text>
+    </card>
+    <card>
+      <name>Call from Beyond</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 5/4 green Nightmare Wurm creature token with ward {2}.
+Reproduce 8G (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Forsaken Sidhe</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Faerie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Forsaken Sidhe enters, mill two cards.
+{T}: Add {G}.</text>
+    </card>
+    <card>
+      <name>Caustic Caterpillar</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G, Sacrifice Caustic Caterpillar: Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Primal Fear</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Yeti </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Omen 3G (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3G after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Backwoods Instincts</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When Backwoods Instincts enters, untap enchanted creature.
+Enchanted creature gets +2/+2 and has reach.</text>
+    </card>
+    <card>
+      <name>Wild Harbingers</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Elk </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Omen {G} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {G} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Succumb to Appetite</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +2/+0 until end of turn. It fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Strength of the Ever-Worm</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Strength of the Ever-Worm enters, you gain 2 life and draw a card.
+Enchanted creature gets +2/+1 and can’t be blocked by more than one creature.</text>
+    </card>
+    <card>
+      <name>Reclusive Occultist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reclusive Occultist gets +1/+0 for each enchantment you control.</text>
+    </card>
+    <card>
+      <name>Surreal Haze</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt this turn except by aberrant creatures you control. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Heiress to Ancient Rites</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Heiress to Ancient Rites enters, return target creature or enchantment card from your graveyard to your hand.
+If Heiress to Ancient Rites would die, exile it instead.</text>
+    </card>
+    <card>
+      <name>Archive Stalker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>4/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+{3}: Archive Stalker gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Ritual Dagger</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0 and has vigilance.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Unearthly Membrane</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
+    </card>
+    <card>
+      <name>Evolving Wilds</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>Eschaton Fragment</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Eschaton Fragment enters, choose a number between 0 and 5. Eschaton Fragment enters with the chosen number of +1/-1 counters on it.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity=""></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>RM03, ASPIRE Founder</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2BR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Creatures you control with toughness 0 or less can’t block or die. (They have indestructible, can’t be sacrificed, and don’t go to the graveyard for having 0 toughness.)
+Whenever @ attacks, put a +1/-1 counter on up to one target creature with toughness 1 or greater.</text>
+    </card>
+    <card>
+      <name>Enlightened Wormlich</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+If a source would deal damage to Enlightened Wormlich, prevent all but 1 of that damage.</text>
+    </card>
+    <card>
+      <name>Eshil, Discordant Voice</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>4RG</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control enters, you gain life equal to its toughness.
+Whenever another creature you control dies, it deals damage equal to its power to target opponent.</text>
+    </card>
+    <card>
+      <name>Open Your Mind</name>
+      <set rarity="uncommon" splitterPath="/Open Your Mind.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Ego Parasite</text>
+      <related attach="transform">Ego Parasite</related>
+    </card>
+    <card>
+      <name>Ego Parasite</name>
+      <set rarity="uncommon" splitterPath="/Ego Parasite.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Leech </type>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Ego Parasite deals combat damage to a player, you may exile two cards from your graveyard. If you do, draw a card.
+---
+(Front): Open Your Mind</text>
+    </card>
+    <card>
+      <name>Breach the Veil</name>
+      <set rarity="uncommon" splitterPath="/Breach the Veil.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Transcendent Dreamer</text>
+      <related attach="transform">Transcendent Dreamer</related>
+    </card>
+    <card>
+      <name>Transcendent Dreamer</name>
+      <set rarity="uncommon" splitterPath="/Transcendent Dreamer.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nightmare Angel </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+{1}, Sacrifice another creature or an enchantment: Transcendent Dreamer gets +2/+1 until end of turn.
+---
+(Front): Breach the Veil</text>
+    </card>
+    <card>
+      <name>Pay in Blood</name>
+      <set rarity="uncommon" splitterPath="/Pay in Blood.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Child of the Ashen King</text>
+      <related attach="transform">Child of the Ashen King</related>
+    </card>
+    <card>
+      <name>Child of the Ashen King</name>
+      <set rarity="uncommon" splitterPath="/Child of the Ashen King.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nightmare Demon </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of each combat, any opponent may sacrifice a creature. If a player does, tap Child of the Ashen King.
+---
+(Front): Pay in Blood</text>
+    </card>
+    <card>
+      <name>Burn Worldly Ties</name>
+      <set rarity="uncommon" splitterPath="/Burn Worldly Ties.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Pyre-Born Magus</text>
+      <related attach="transform">Pyre-Born Magus</related>
+    </card>
+    <card>
+      <name>Pyre-Born Magus</name>
+      <set rarity="uncommon" splitterPath="/Pyre-Born Magus.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Shaman </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Pyre-Born Magus attacks, you may sacrifice a permanent. If you do, Pyre-Born Magus gets +2/+0 and gains trample until end of turn.
+---
+(Front): Burn Worldly Ties</text>
+    </card>
+    <card>
+      <name>Wander in Dream</name>
+      <set rarity="uncommon" splitterPath="/Wander in Dream.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Awakened Egregore</text>
+      <related attach="transform">Awakened Egregore</related>
+    </card>
+    <card>
+      <name>Awakened Egregore</name>
+      <set rarity="uncommon" splitterPath="/Awakened Egregore.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Leviathan </type>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Awakened Egregore’s power and toughness are each equal to the number of cards you own in exile and in your graveyard.
+---
+(Front): Wander in Dream</text>
+    </card>
+    <card>
+      <name>Glimpse of Magic</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill five cards. You may put a noncreature, nonland card from among the milled cards into your hand.</text>
+    </card>
+    <card>
+      <name>Reality Seizure</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/-1 counters on each creature.</text>
+    </card>
+    <card>
+      <name>Tremorling</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>0/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tremorling enters with three +1/-1 counters on it.
+{U}: Counter target spell or ability that targets Tremorling unless its controller pays {2}.
+{R}: Target creature can’t block Tremorling this turn.
+{1}: Put a +1/-1 counter on Tremorling or remove a +1/-1 counter from it.</text>
+    </card>
+    <card>
+      <name>ASPIRE Copywriter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Whenever a creature you control with toughness 4 or greater enters, you may have ASPIRE Copywriter deal 1 damage to each creature.</text>
+    </card>
+    <card>
+      <name>Cadis Yeln, IPC Chair</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Cadis Yeln enters, exile target spell, nonland permanent an opponent controls, or card from a graveyard until Cadis Yeln leaves the battlefield.
+Spells your opponents cast cost {1} more to cast if they share a color with a card in exile. The same is true for card type and name.</text>
+    </card>
+    <card>
+      <name>RM02, Irdol Executive</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of each end step, create a Treasure token for each zone a card was put into your graveyard from this turn. (The zones are library, hand, battlefield, graveyard, stack, exile, and command.)
+{2}, {T}: Draw a card, then discard a card unless you sacrifice another nonland permanent.</text>
+    </card>
+    <card>
+      <name>RM05, Speaker for the One</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have “{T}: Add one mana of any color. Spend this mana only to cast enchantment spells.”
+Whenever an enchantment enters under your control, draw a card, then you may discard a card. If you do, create a 1/1 white Human Cleric creature token with lifelink.</text>
+    </card>
+    <card>
+      <name>Unnerving Statue</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{3}: Unnerving Statue becomes a 5/3 Construct artifact creature with menace until end of turn. Activate only if you control no creatures.</text>
+    </card>
+    <card>
+      <name>Rites of the Ashen King</name>
+      <set rarity="mythic" splitterPath="/Rites of the Ashen King.png" ></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player sacrifices all creatures they control. Then if ten or more creatures were sacrificed this way, put Rites of the Ashen King onto the battlefield transformed.
+---
+(Back): Czendramahlix</text>
+      <related attach="transform">Czendramahlix</related>
+    </card>
+    <card>
+      <name>Czendramahlix</name>
+      <set rarity="mythic" splitterPath="/Czendramahlix.png" ></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Nightmare God </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+When this permanent transforms into Czendramahlix, create ten 0/1 black Thrull creature tokens.
+You may cast cards exiled with this permanent by sacrificing a creature in addition to paying their other costs.
+---
+(Front): Rites of the Ashen King</text>
+    </card>
+    <card>
+      <name>Virulent Brainseeker</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Leech </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Whenever Virulent Brainseeker attacks, target creature defending player controls blocks it this combat if able. You may have that creature gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>Maw of Hafnordrun</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5G</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Worm </type>
+        <maintype>Creature</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Maw of Hafnordrun must be blocked if able and can’t be blocked by more than one creature.</text>
+    </card>
+    <card>
+      <name>Gelatinous Birth</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create an X/X green Ooze Shapeshifter creature token with trample.
+Reproduce XGGG (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Escaped Subject</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Escaped Subject dies, draw a card.</text>
+    </card>
+    <card>
+      <name>Absent Twins</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Absent Twins enters or dies, mill two cards.</text>
+    </card>
+    <card>
+      <name>Feral Monstrosity</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an aberrant creature you control becomes blocked, defending player loses 1 life. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Novice Aspirant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Novice Aspirant enters, put a +1/-1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Implacable Revenant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Implacable Revenant gets +2/+0 until end of turn.
+When Implacable Revenant dies, it deals damage equal to its power to target opponent.</text>
+    </card>
+    <card>
+      <name>Hunted Aspirant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier creature token.</text>
+    </card>
+    <card>
+      <name>Hunted Monstrosity</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Beast </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Hunted Monstrosity enters, target opponent creates a 1/1 white Human Soldier creature token.
+1G: Hunted Monstrosity can’t be blocked by creatures with power 2 or less this turn.</text>
+    </card>
+    <card>
+      <name>Prophetic Prism</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Prophetic Prism enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Wistful Notary</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Add one mana of any color. Activate only once each turn.</text>
+    </card>
+    <card>
+      <name>Impossible Abduction</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent, then return it to the battlefield under its owner’s control unless this spell was an omen.
+Omen 3W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3W after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Power Fantasy</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature. It gets +1/+0 and gains flying, double strike, hexproof, and lifelink until end of turn. Prevent all damage that would be dealt to it this turn.
+Omen 2W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2W after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Evangel of Unity</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each creature you control with an omen gets +1/+0 and has “Untap this creature during each other player’s untap step.”</text>
+    </card>
+    <card>
+      <name>Rescue from the Brink</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return a nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+Reproduce 3W (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Callous Display</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has mutable. (It’s dealt damage in the form of +1/-1 counters.)
+Prevent all combat damage that would be dealt by enchanted creature.</text>
+    </card>
+    <card>
+      <name>Crossroads Incursion</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a tapped 3/2 black Nightmare creature token. If this spell was an omen, create four of those tokens instead.
+Omen 7G (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 7G after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Prized Subject</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Homunculus </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell from your hand that targets Prized Subject, scry 1. If that spell is an instant or sorcery, exile it instead of putting it into your graveyard as it resolves. You may cast it for as long as it remains exiled.</text>
+    </card>
+    <card>
+      <name>Deepspawn Siren</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter Siren </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Each opponent must attack you or a planeswalker you control with at least one creature each combat if able.</text>
+    </card>
+    <card>
+      <name>ASPIRE Sponsor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+When ASPIRE Sponsor dies, you may put its +1/-1 counters on target creature.</text>
+    </card>
+    <card>
+      <name>Imperfect Revival</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield with an additional +1/-1 counter on it.
+Reproduce 8B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Satu&apos;s Lieutenant</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, choose one—
+• Exile target card from a graveyard.
+• Up to two target creatures each get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Sin-Chained Souls</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever an enchantment enters under your control, return Sin-Chained Souls from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Self-Taught Exorcist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Self-Taught Exorcist enters, choose a card name.
+Spells your opponents cast with the chosen name cost {2} more to cast.</text>
+    </card>
+    <card>
+      <name>Notion of Judgment</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 2W and reveal this card as you draw it. When you do, destroy target tapped creature.
+Flying, vigilance</text>
+    </card>
+    <card>
+      <name>Austere Dreamer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric Monk </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may choose not to untap Austere Dreamer during your untap step.
+1W, {T}: Exile another target creature for as long as Austere Dreamer remains tapped. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Veil of Ignorance</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Veil of Ignorance enters, create two 1/1 white Human Soldier creature tokens.
+Non-aberrant creatures you control have ward {1} and can’t be blocked by aberrant creatures. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Indecisive Transmortal</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1B, Sacrifice another permanent: Choose one of that permanent’s types. Indecisive Transmortal becomes a creature with the corresponding characteristics. Activate only once.
+• Artifact—4/6 Elemental Shaman with deathtouch.
+• Creature—5/5 Spirit Warlock with menace.
+• Enchantment—4/3 Nightmare Angel with flying.
+• Land—5/3 Human Horror with lifelink.
+• Planeswalker—5/4 Demigod with indestructible.</text>
+    </card>
+    <card>
+      <name>Pray for Unity</name>
+      <set rarity="rare" splitterPath="/Pray for Unity.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Revelation of the One</text>
+      <related attach="transform">Revelation of the One</related>
+    </card>
+    <card>
+      <name>Revelation of the One</name>
+      <set rarity="rare" splitterPath="/Revelation of the One.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Illusion Avatar </type>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike, vigilance, lifelink
+Revelation of the One has ward {X}, where X is its power.
+Revelation of the One’s power and toughness are each equal to the number of creatures you control plus the number of enchantments you control.
+---
+(Front): Pray for Unity</text>
+    </card>
+    <card>
+      <name>Shackle the Wind</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a X/X blue Elemental creature token with flying, where X is the number of noncreature spells you cast this turn.
+Reproduce 3U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Ingredient Smuggler</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Ingredient Smuggler has lifelink.
+When Ingredient Smuggler dies, create a number of Treasure tokens equal to its power.</text>
+    </card>
+    <card>
+      <name>Favored Aspirant</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Favored Aspirant attacks, if it’s aberrant, it gains double strike until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Ancient Dreamweaver</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, reach
+At the beginning of each combat, aberrant creatures you control gain vigilance and reach until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Torpor Mage</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever a non-aberrant creature becomes tapped, put a stun counter on it. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Oneiric Scrutiny</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard three cards unless this spell was an omen.
+Omen 3U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3U after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Arcane Resonation</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Omen {U} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {U} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Malignosis Outbreak</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/-1 counters on target creature. If this spell was an omen, put two +1/-1 counters on up to one other target creature.
+Omen 2B (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2B after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Refulgent Bolt</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Refulgent Bolt deals 5 damage to target creature or planeswalker. If this spell was an omen, it also deals 5 damage to that permanent’s controller.
+Omen 4R (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 4R after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Contemplative Dreamer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may choose not to untap Contemplative Dreamer during your untap step.
+3U, {T}: Exile the top two cards of your library. You may play those cards for as long as Contemplative Dreamer remains tapped. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Reforge Occult Ties</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top card of your library. You may pay 3 life, discard a card, or sacrifice a nonland permanent. If you do, draw a card. Otherwise, mill a card. Repeat this process twice.</text>
+    </card>
+    <card>
+      <name>Fanciful Dreamer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may choose not to untap Fanciful Dreamer during your untap step.
+2G, {T}: Target creature or land you control becomes a 5/4 Nightmare creature with haste in addition to its other types for as long as Fanciful Dreamer remains tapped. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Invasive Paradigm</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Cat </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may discard a card. If you do, target creature gets +1/+0 until end of turn and you draw a card.</text>
+    </card>
+    <card>
+      <name>Agents of the Eschaton</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control with an omen deals combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Pineal Siphon</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, put a +1/-1 counter on it.
+When equipped creature dies, if it attacked this turn, draw two cards.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Vessel of Corruption</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with one or more counters on it dies, put that many +1/-1 counters on Vessel of Corruption.
+{B}: Move all +1/-1 counters from Vessel of Corruption onto target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>The Archivist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other permanents you control are Clue artifacts in addition to their other types and have “{2}, Sacrifice this permanent: Draw a card.”
+Whenever you cast an instant or sorcery spell, tap or untap up to one target permanent. If you’ve spent WUBRG this turn, gain control of that permanent until end of turn. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Seek the Archive</name>
+      <set rarity="rare" splitterPath="/Seek the Archive.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Pansophic Sage</text>
+      <related attach="transform">Pansophic Sage</related>
+    </card>
+    <card>
+      <name>Pansophic Sage</name>
+      <set rarity="rare" splitterPath="/Pansophic Sage.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, you may cast a card exiled with this permanent.
+You may exile instant and sorcery spells as they resolve if you cast them from your hand.
+---
+(Front): Seek the Archive</text>
+    </card>
+    <card>
+      <name>Consecrated Bus</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature you control with toughness 4 or greater enters, you may have Consecrated Bus become an artifact creature until end of turn.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Dangerous Idea</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Peter Welles, Reawakened</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Peter Welles enters and at the beginning of your upkeep, look at the top card of your library. You may pay 2 life. If you do, draw a card. Otherwise, mill a card.
+UR: Until end of turn, you may cast instant and sorcery spells from your graveyard. If a spell cast this way would be put into a graveyard, exile that card instead. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>IPC Zeitgeist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As IPC Zeitgeist enters, choose Safety, Control, or Preservation.
+• Safety—Non-aberrant creatures you control have ward {2} and can’t be blocked by aberrant creatures. (A creature is aberrant if its power and toughness aren’t equal.)
+• Control—Non-Human spells cost {1} more to cast.
+• Preservation—Flying, vigilance, protection from Nightmares</text>
+    </card>
+    <card>
+      <name>Hypnagogic Broadcast</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile your hand and the top three cards of your library. For each land card exiled this way, add one mana of any color. Until end of turn, you may cast nonland cards exiled this way.</text>
+    </card>
+    <card>
+      <name>Delve the Noosphere</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill four cards, then choose up to two permanent cards in your graveyard. Put all land cards chosen this way onto the battlefield tapped and the rest into your hand.</text>
+    </card>
+    <card>
+      <name>Occult Prodigy</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you sacrifice another permanent, choose one—
+• You draw a card and you lose 2 life.
+• Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Infested Wormlich</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Zombie Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may sacrifice another creature. If you do, creatures you control get +1/+0 and gain deathtouch until end of turn.
+Whenever an aberrant creature you control attacks, create a 1/1 black and green Insect creature token with flying. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Unanimist Zeitgeist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Unanimist Zeitgeist enters, choose Orthodox, Reformist, or Evangelist.
+• Orthodox—Unanimist Zeitgeist gets +1/+1 for each other creature you control and has vigilance.
+• Reformist—Other creatures you control get +1/+1.
+• Evangelist—Whenever you cast a creature spell, create a 1/1 white Human Cleric creature token with lifelink.</text>
+    </card>
+    <card>
+      <name>Irdol Zeitgeist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Irdol Zeitgeist enters, choose Research, Production, or Marketing.
+• Research—Once each turn, when Irdol Zeitgeist or another card or token is put into your graveyard from anywhere, you may draw a card.
+• Production—Spells you cast cost {1} less to cast.
+• Marketing—{T}, Exile X cards from your graveyard: Exchange control of two target creatures with mana value X. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Discordance Zeitgeist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As Discordance Zeitgeist enters, choose Anarchy, Progress, or Socialism.
+• Anarchy—{0}: Add one mana of any color. Activate only once each turn.
+• Progress—Whenever you attack, exile the top card of your library. You may play that card this turn.
+• Socialism—You may play an additional land on each of your turns.</text>
+    </card>
+    <card>
+      <name>ASPIRE Zeitgeist</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As ASPIRE Zeitgeist enters, choose Recruitment, Instruction, or Retention.
+• Recruitment—Each other creature you control enters with an additional +1/-1 counter on it and creatures you control have haste.
+• Instruction—Whenever you attack, put a +1/-1 counter on up to one target creature.
+• Retention—Attacking creatures you control have first strike.</text>
+    </card>
+    <card>
+      <name>Wormwood, Racketeer</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Planeswalker - Lettie </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Put a +1/-1 counter on target creature.
+[+1]: Until end of turn, aberrant creatures you control gain “When this creature dies, return it to the battlefield under your control.” (A creature is aberrant if its power and toughness aren’t equal.)
+[-6]: Sacrifice any number of creatures. Each opponent loses X life and you gain X life, where X is the total power of those creatures.
+</text>
+    </card>
+    <card>
+      <name>Bound Distortion</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant opponent
+At the beginning of your end step, if the number of spells you’ve cast this turn is equal to the number of spells enchanted player cast during their last turn, draw a card. Otherwise, sacrifice Bound Distortion and discard your hand.</text>
+    </card>
+    <card>
+      <name>Black Circle Summoner</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step and whenever Black Circle Summoner dies, you may exile a Nightmare card from your hand or graveyard. When you do, you may cast a copy of that card. That copy costs {X} less to cast, where X is the total power among non-Nightmare creatures you controlled that died this turn.</text>
+    </card>
+    <card>
+      <name>Sign of Discontent</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sign of Discontent deals 2 damage to target player. Then if that player has more life than you or this spell was an omen, return Sign of Discontent to its owner’s hand.
+Omen {R} (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for {R} after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Lamb of the One</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nightmare Illusion Sheep </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lamb of the One dies, create a colorless enchantment token named Crisis of Faith with “{2}, Sacrifice this enchantment: Scry 1. You gain 1 life.”
+Whenever an enchantment is put into your graveyard from the battlefield, return Lamb of the One from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Task Force Armorer</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, attacking non-aberrant creatures get +1/+0 until end of turn. Untap all attacking Humans. Attacking Soldiers gain flying until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Vand, the Breaking Dream</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Vand </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Exile the top card of your library. You may play it this turn.
+[-1]: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+[-3]: Put two loyalty counters on target creature. It gains all loyalty abilities of Vand until it has no loyalty counters on it.
+</text>
+    </card>
+    <card>
+      <name>Bestower of Fate</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+{W}, Turn this card face up: Destroy all creatures blocking or blocked by a creature with this omen. Activate only if this card is a face-down omen.
+Omen 2W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2W after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Senseless Delusion</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Senseless Delusion enters, tap target permanent an opponent controls and put a stun counter on it.
+Whenever Senseless Delusion becomes blocked or the target of a spell or ability, exile it. Return it to the battlefield under its owner’s control at the beginning of the next turn’s upkeep.</text>
+    </card>
+    <card>
+      <name>Catastrophic Mistake</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Ooze Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Whenever Catastrophic Mistake attacks, you may have it fight another target creature. Excess damage to that creature is dealt to that creature’s controller instead.</text>
+    </card>
+    <card>
+      <name>Fears Made Manifest</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Fears Made Manifest, you may reveal a Nightmare card from your hand.
+Fears Made Manifest deals X damage to target creature or planeswalker, where X is the greatest power among the revealed card and creatures you control.</text>
+    </card>
+    <card>
+      <name>Notion of Malice</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 1B and reveal this card as you draw it. When you do, each player sacrifices a creature.
+Deathtouch, menace</text>
+    </card>
+    <card>
+      <name>Psychic Trepanation</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a nonland card name. Target player reveals their hand. That player discards a card with that name. If they can’t, you draw a card.
+Reproduce 3B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Memory of Ages Lost</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible, menace, lifelink
+Memory of Ages Lost can’t attack or block unless it was the target of a spell or ability this turn.</text>
+    </card>
+    <card>
+      <name>Notion of Doubt</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Kraken </type>
+        <maintype>Creature</maintype>
+        <pt>5/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 1U and reveal this card as you draw it. When you do, return target nonland permanent to its owner’s hand.
+Ward—Discard a card.</text>
+    </card>
+    <card>
+      <name>Notion of Craving</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Giant </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 2R and reveal this card as you draw it. When you do, target creature you control fights another target creature.
+Haste</text>
+    </card>
+    <card>
+      <name>Notion of Atavism</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Beast </type>
+        <maintype>Creature</maintype>
+        <pt>7/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may pay 2G and reveal this card as you draw it. When you do, destroy target artifact or enchantment.
+Trample</text>
+    </card>
+    <card>
+      <name>State of Paranoia</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells you cast cost {1} less to cast as long as they have mana value 5 or greater or it’s not your turn.
+2U, Sacrifice State of Paranoia: Return target nonland permanent to its owner’s hand. Draw a card. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Dazzling Reverie</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill X cards, then counter target spell unless its controller pays {1} for each card you own in your graveyard and in exile.</text>
+    </card>
+    <card>
+      <name>Feedlot Abomination</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Chimera </type>
+        <maintype>Creature</maintype>
+        <pt>5/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Feedlot Abomination or another aberrant creature you control dies, if it attacked this turn, draw a card. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Incite Turmoil</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 red Human Rogue creature tokens. Until end of turn, creatures you control get +1/+0 and gain haste.
+Reproduce 7R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>All Things Must End</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, choose one that hasn’t been chosen—
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target creature with flying.
+• Exile target card in a graveyard.
+• Sacrifice All Things Must End.</text>
+    </card>
+    <card>
+      <name>Might Channeler</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add {G}.
+Whenever a creature you control with toughness 4 or greater enters, untap Might Channeler. It gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Anointed Consecrator</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Horror Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Anointed Consecrator attacks, create a tapped and attacking token that’s a copy of it. The token gains “At the beginning of the end step, exile this creature” unless Anointed Consecrator is aberrant. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Immortal Heir</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Noble Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible
+Whenever Immortal Heir deals combat damage to a player, create a 0/1 black Thrull creature token.
+At the beginning of your end step, sacrifice a creature. If you do, you gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Trace of the All-Dream</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Trace of the All-Dream enter as a copy of any permanent on the battlefield, except it has “You may have nontoken permanents you control enter as a copy of this permanent.”</text>
+    </card>
+    <card>
+      <name>Worldtongue Heretic</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>All instances of “enchant creature” in the text of Aura spells you control are changed to “enchant permanent.”
+Whenever you cast an Aura spell that targets a noncreature permanent, that permanent becomes a 4/4 creature in addition to its other types.</text>
+    </card>
+    <card>
+      <name>Veilguard Elite</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your opponents can’t cast spells from anywhere other than their hand.
+If a nonland, nontoken permanent would enter under an opponent’s control and it wasn’t cast, exile it instead.</text>
+    </card>
+    <card>
+      <name>Expunge from Records</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target nonland permanent. Search its controller’s graveyard, hand, and library for any number of cards with the same name as that permanent and exile them. That player shuffles, then draws a card plus an additional card for each card exiled from their hand this way.</text>
+    </card>
+    <card>
+      <name>Yeln&apos;s Sanction</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Your opponents can’t cast spells or attack this turn.</text>
+    </card>
+    <card>
+      <name>Facility Expansion</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Facility Expansion enters, exile target nonland permanent an opponent controls until Facility Expansion leaves the battlefield.
+Whenever a card is put into exile during your turn, create a 1/1 white Human Soldier creature token. If you don’t own that card, create two of those tokens instead.</text>
+    </card>
+    <card>
+      <name>Enhanced Enforcer</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Enhanced Enforcer attacks or blocks, if it’s aberrant, it gains indestructible until end of turn. (A creature is aberrant if its power and toughness aren’t equal.)
+Whenever an aberrant creature deals combat damage, destroy it.</text>
+    </card>
+    <card>
+      <name>Missing Piece</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 1, then draw a card. Then if an opponent has more cards in hand than you or this spell was an omen, return Missing Piece to its owner’s hand.
+Omen 1U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 1U after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Escaping Omnipath</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, hexproof
+Whenever Escaping Omnipath enters or a player casts a spell, tap Escaping Omnipath and put a stun counter on it.
+XU, Remove X stun counters from Escaping Omnipath: Untap it. It gets +X/+X until end of turn.</text>
+    </card>
+    <card>
+      <name>Augmented Researcher</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Horror Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw a card, put a +1/-1 counter on Augmented Researcher.
+{T}, Remove X +1/-1 counters from Augmented Researcher: Spells you cast this turn cost {X} less to cast.</text>
+    </card>
+    <card>
+      <name>Aeon of Purpose</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6UU</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>8/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast this spell or Aeon of Purpose attacks, you may cast a spell not named Aeon of Purpose from your hand without paying its mana cost.
+Ward—{2}, Discard two cards.</text>
+    </card>
+    <card>
+      <name>Phantasmal Overseer</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Eye </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+{U}, Turn this card face up: Untap a creature with this omen. It gains hexproof until end of turn. Activate only if this card is a face-down omen.
+Omen 2U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2U after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Shadow of Eternity</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, lifelink
+{B}, Turn this card face up: When a creature with this omen dies this turn, return it to its owner’s hand. Activate only if this card is a face-down omen.
+Omen 2B (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2B after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Experimental Treatment</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+At the beginning of your upkeep, put a +1/-1 counter on enchanted creature. If you control that creature, it gains menace and lifelink until end of turn.
+You may cast Experimental Treatment from your graveyard if a creature you controlled died this turn.</text>
+    </card>
+    <card>
+      <name>Eternity&apos;s Plaything</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+Eternity’s Plaything can’t block.
+When Eternity’s Plaything dies, create a token that’s a copy of it at the beginning of the next end step, except the token is X/1, where X is Eternity’s Plaything’s power.</text>
+    </card>
+    <card>
+      <name>Merciful End</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Merciful End, sacrifice a creature.
+Each opponent discards X cards and loses X life, you draw X cards, and you gain X life, where X is the difference between the sacrificed creature’s power and its toughness.</text>
+    </card>
+    <card>
+      <name>Discordant Magus</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+If a source you control would deal noncombat damage to a permanent or player, you may have it deal that damage to any other target instead.</text>
+    </card>
+    <card>
+      <name>Daydream Visitors</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+{R}, Turn this card face up: A creature with this omen gains double strike until end of turn. Activate only if this card is a face-down omen.
+Omen 2R (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2R after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Solve et Coagula</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may sacrifice a permanent. Reveal cards from the top of your library until you reveal a card that shares a card type with a permanent you sacrificed this turn. Put that card onto the battlefield, then shuffle the rest into your library.
+Reproduce 6R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Fevered Dreams</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>All creatures have mutable. (They’re dealt damage in the form of +1/-1 counters.)
+Creatures you control have trample.
+Whenever a source you control deals excess noncombat damage to a permanent, Fevered Dreams deals damage equal to the excess to that permanent’s controller.</text>
+    </card>
+    <card>
+      <name>Dream-Borne Starfarer</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Xyldri Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may play land cards you own from outside the game.</text>
+    </card>
+    <card>
+      <name>Bucolic Innocence</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a source would deal combat damage to you, a planeswalker you control, or a creature you control with mutable, prevent all but 1 of that damage.
+At the beginning of your upkeep, sacrifice Bucolic Innocence unless you sacrifice a creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Aeon of Meaning</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Nightmare Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>9/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast this spell or Aeon of Meaning attacks, you may cast a spell not named Aeon of Meaning from your graveyard without paying its mana cost.
+Ward—{2}, Sacrifice two nonland permanents.</text>
+    </card>
+    <card>
+      <name>Primordial Shepherd</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Troll </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+{G}, Turn this card face up: A creature with this omen gets +2/+2 and gains trample until end of turn. Activate only if this card is a face-down omen.
+Omen 2G (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2G after the creature is gone.)</text>
+    </card>
+    <card>
+      <name>Genius Loci</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GGG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Nightmare Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>0/20</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample, hexproof, indestructible, haste
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+All creatures able to block Genius Loci do so.</text>
+    </card>
+    <card>
+      <name>Metamorphosis Chamber</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}. If that mana is spent on a creature spell, that creature enters with an additional +1/-1 counter on it.</text>
+    </card>
+    <card>
+      <name>Atrocity Site</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color among creature cards you own in your graveyard and in exile.
+{5}, {T}, Exile a creature card from your graveyard: Create a tapped 1/1 white Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Truthcleaver, Satu&apos;s Blade</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+1 and has ward {2}.
+Whenever equipped creature blocks or becomes blocked by a creature, that creature loses all abilities until end of turn. Destroy any number of Auras attached to it.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Profound Revelation</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>7U</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose card type, color, or mana value. Draw a card for each different quality of the chosen kind among cards you own in your graveyard and in exile.
+Reproduce 7U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Raving Aspirant</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, you may sacrifice Raving Aspirant. If you do, it deals X damage to each opponent and each creature and planeswalker they control, where X is the difference between its power and its toughness.</text>
+    </card>
+    <card>
+      <name>Romantic Vision</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. You may reveal a Nightmare card from your hand. If you do, that creature becomes a copy of that card until end of turn.</text>
+    </card>
+    <card>
+      <name>Utopian Vision</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player shuffles their hand into their library, then draws seven cards. You may put a Nightmare card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>Bleak Vision</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures and all planeswalkers. You may reveal a Nightmare card from your hand. If you do, exile all graveyards.</text>
+    </card>
+    <card>
+      <name>Cosmic Vision</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill X cards. Put all permanent cards from among the milled cards into your hand. You may reveal a Nightmare card from your hand. If you do, you gain life equal to its toughness.</text>
+    </card>
+    <card>
+      <name>Cancerous Vision</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may reveal a Nightmare card from your hand. If you do, each player mills cards equal to its power.
+Put a creature or planeswalker card from a graveyard onto the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>Perfecter of Form</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ooze Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
+{0}: Until end of turn, Perfecter of Form loses mutable and gains hexproof and indestructible. Activate only if Perfecter of Form isn’t aberrant. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+    </card>
+    <card>
+      <name>Rites of the Angleworm</name>
+      <set rarity="rare" splitterPath="/Rites of the Angleworm.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Demonic Betrayer</text>
+      <related attach="transform">Demonic Betrayer</related>
+    </card>
+    <card>
+      <name>Demonic Betrayer</name>
+      <set rarity="rare" splitterPath="/Demonic Betrayer.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Demon </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this permanent transforms into Demonic Betrayer, target opponent gains control of it. If they do, they sacrifice two other creatures, discard two cards, and lose 4 life.
+Ward—Pay 4 life.
+---
+(Front): Rites of the Angleworm</text>
+    </card>
+    <card>
+      <name>Consecrate Flesh</name>
+      <set rarity="rare" splitterPath="/Consecrate Flesh.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Glestra, Reformed Aspirant</text>
+      <related attach="transform">Glestra, Reformed Aspirant</related>
+    </card>
+    <card>
+      <name>Glestra, Reformed Aspirant</name>
+      <set rarity="rare" splitterPath="/Glestra, Reformed Aspirant.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Horror </type>
+        <pt>0/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this permanent transforms into Glestra, choose a number between 0 and the greatest power among creatures that died under your control this turn. Put the chosen number of +1/-1 counters on Glestra. When you do, Glestra deals damage equal to her power to any target.
+---
+(Front): Consecrate Flesh</text>
+    </card>
+    <card>
+      <name>Beseech the First Ones</name>
+      <set rarity="rare" splitterPath="/Beseech the First Ones.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Ritual </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Vestige of Hollow Stars</text>
+      <related attach="transform">Vestige of Hollow Stars</related>
+    </card>
+    <card>
+      <name>Vestige of Hollow Stars</name>
+      <set rarity="rare" splitterPath="/Vestige of Hollow Stars.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elder Faerie Praetor </type>
+        <pt>9/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this permanent transforms into Vestige of Hollow Stars, all nonland, non-Aura permanents that aren’t transformed become 2/1 green Faerie creatures and lose all abilities.
+Hexproof
+Vestige of Hollow Stars can’t be blocked by Faeries.
+---
+(Front): Beseech the First Ones</text>
+    </card>
+    <card>
+      <name>Satu Var, Hexkeeper</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Satu </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Satu Var enters, exile target spell.
+[+2]: Each player exiles the top card of their library. You gain 2 life.
+[-X]: Until your next turn, you may cast up to one card exiled with Satu Var that has mana value X or less without paying its mana cost.
+Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeeper that has converted mana cost X or less without paying its mana cost.
+</text>
+    </card>
+    <card>
+      <name>Stalking Soulmate</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your maximum hand size is two. It’s also your minimum hand size. (Draw cards up to that number at end of turn if you have fewer.)</text>
+    </card>
+    <card>
+      <name>Mabil, Dreamscape Delver</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2GU</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Mabil </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.
+[-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
+[-4]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and “T: Add WUBRG.”
+</text>
+    </card>
+    <card>
+      <name>Occult Fascination</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a noncreature spell, create a Treasure token.
+{R}, Sacrifice a Treasure: Exile the top card of your library. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Fateful Excavation</name>
+      <set rarity="rare" splitterPath="/Fateful Excavation.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Enchantment - Ritual </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+---
+(Back): Stirring Titan</text>
+      <related attach="transform">Stirring Titan</related>
+    </card>
+    <card>
+      <name>Stirring Titan</name>
+      <set rarity="rare" splitterPath="/Stirring Titan.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {3}
+When this permanent transforms into Stirring Titan, all other nonland permanents phase out until Stirring Titan leaves the battlefield. (Treat phased-out permanents and anything attached to them as though they don’t exist.)
+---
+(Front): Fateful Excavation</text>
+    </card>
+    <card>
+      <name>Dreamwild Intrusion</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant land
+When Dreamwild Intrusion enters, mill two cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand.
+Enchanted land has “{T}: Add two mana of any one color.”</text>
+    </card>
+    <card>
+      <name>Unleash Potential</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Unleash Potential deals X damage to any target.
+Reproduce XRR (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Surveillance Copter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flying, vigilance
+Whenever Surveillance Copter attacks or blocks, draw a card, then discard a card.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>Through Eerie Woods</name>
+      <set rarity="uncommon" splitterPath="/Through Eerie Woods.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Ritual </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>
+---
+(Back): Name-Shorn Clearing</text>
+      <related attach="transform">Name-Shorn Clearing</related>
+    </card>
+    <card>
+      <name>Name-Shorn Clearing</name>
+      <set rarity="uncommon" splitterPath="/Name-Shorn Clearing.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Permanents you control have ward {1}.
+Whenever a permanent you control becomes the target of a spell, you may draw a card.
+---
+(Front): Through Eerie Woods</text>
+    </card>
+    <card>
+      <name>On Empty Streets</name>
+      <set rarity="uncommon" splitterPath="/On Empty Streets.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Ritual </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>
+---
+(Back): Desolate Reflection</text>
+      <related attach="transform">Desolate Reflection</related>
+    </card>
+    <card>
+      <name>Desolate Reflection</name>
+      <set rarity="uncommon" splitterPath="/Desolate Reflection.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this permanent transforms into Desolate Reflection, return any number of creatures you control to their owners’ hands.
+Whenever a nontoken creature you control leaves the battlefield, create a token that’s a copy of that creature, then exile it.
+---
+(Front): On Empty Streets</text>
+    </card>
+    <card>
+      <name>Up Cryptic Spires</name>
+      <set rarity="uncommon" splitterPath="/Up Cryptic Spires.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Ritual </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>
+---
+(Back): Long Climb to Heaven</text>
+      <related attach="transform">Long Climb to Heaven</related>
+    </card>
+    <card>
+      <name>Long Climb to Heaven</name>
+      <set rarity="uncommon" splitterPath="/Long Climb to Heaven.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would draw a card, exile the top two cards of your library instead. You may play those cards this turn.
+Whenever you cast a spell from exile, put an eternity counter on Long Climb to Heaven.
+You may remove six eternity counters from Long Climb to Heaven rather than pay the mana cost for spells you cast from exile.
+---
+(Front): Up Cryptic Spires</text>
+    </card>
+    <card>
+      <name>Down Twisted Corridors</name>
+      <set rarity="uncommon" splitterPath="/Down Twisted Corridors.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Ritual </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>
+---
+(Back): Ever-Worm&apos;s Gullet</text>
+      <related attach="transform">Ever-Worm&apos;s Gullet</related>
+    </card>
+    <card>
+      <name>Ever-Worm&apos;s Gullet</name>
+      <set rarity="uncommon" splitterPath="/Ever-Worm's Gullet.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this permanent transforms into Ever-Worm’s Gullet and at the beginning of your upkeep, mill a card, then return a card at random from your graveyard to your hand. You lose life equal to its mana value.
+---
+(Front): Down Twisted Corridors</text>
+    </card>
+    <card>
+      <name>Blessing of Harmony</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, creatures you control get +1/+0 and gain vigilance and “Prevent all damage that would be dealt to this creature.”
+Reproduce 5W (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+    </card>
+    <card>
+      <name>Past Distant Thresholds</name>
+      <set rarity="uncommon" splitterPath="/Past Distant Thresholds.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment Land - Ritual </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>
+---
+(Back): Astral Bridge</text>
+      <related attach="transform">Astral Bridge</related>
+    </card>
+    <card>
+      <name>Astral Bridge</name>
+      <set rarity="uncommon" splitterPath="/Astral Bridge.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a spell during an opponent’s turn, return up to one target nonland permanent to its owner’s hand.
+---
+(Front): Past Distant Thresholds</text>
+    </card>
+    <card>
+      <name>Laboratory Maniac</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would draw a card while your library has no cards in it, you win the game instead.</text>
+    </card>
+    <card>
+      <name>Mercurial Counterpart</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Mercurial Counterpart enter as a copy of a creature you control, except it enters with a +1/-1 counter on it and has haste and “At the beginning of the end step, return this creature to its owner’s hand.”</text>
+    </card>
+    <card>
+      <name>Purebred Offering</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+When Purebred Offering dies, look at the top seven cards of your library. You may put a nonland permanent card with mana value less than or equal to Purebred Offering’s power from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Gaze of the Abyss</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare Gorgon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Gaze of the Abyss enters or dies, you may have target creature’s base toughness become equal to Gaze of the Abyss’s toughness until end of turn.</text>
+    </card>
+    <card>
+      <name>Vivid Crag</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vivid Crag enters tapped with two charge counters on it.
+{T}: Add {R}.
+{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Vivid Creek</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vivid Creek enters tapped with two charge counters on it.
+{T}: Add {U}.
+{T}, Remove a charge counter from Vivid Creek: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Vivid Grove</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vivid Grove enters tapped with two charge counters on it.
+{T}: Add {G}.
+{T}, Remove a charge counter from Vivid Grove: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Vivid Marsh</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vivid Marsh enters tapped with two charge counters on it.
+{T}: Add {B}.
+{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Vivid Meadow</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vivid Meadow enters tapped with two charge counters on it.
+{T}: Add {W}.
+{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Inexplicable Entity</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Volver Processor </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof from spells with no other targets
+You may assign the combat damage of creatures blocking Inexplicable Entity divided as you choose among creatures you control.</text>
+    </card>
+    <card>
+      <name>Destructive Impulse</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Target creature you control gets +1/+0 until end of turn. It fights target creature you don’t control.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Discordant Collective</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Druid Rogue Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Discordant Collective’s power and toughness are each equal to the number of creatures you control.
+Whenever another creature you control enters, if that creature has greater power or toughness than Discordant Collective, draw a card.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Spirit</name>
+      <set></set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Breach the Veil</reverse-related>
+      <reverse-related count="2">Ghostly Visitation</reverse-related>
+      <reverse-related>Solemn Gatekeeper</reverse-related>
+      <reverse-related>Atrocity Site</reverse-related>
+    </card>
+    <card>
+      <name>Thrull</name>
+      <set></set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Thrull </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="10">Czendramahlix</reverse-related>
+      <reverse-related>Immortal Heir</reverse-related>
+      <reverse-related>Throne of Czendramahlix</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare</name>
+      <set></set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Doomed Dreamer</reverse-related>
+      <reverse-related>Crossroads Incursion</reverse-related>
+    </card>
+    <card>
+      <name>Treasure</name>
+      <set></set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Ingredient Smuggler</reverse-related>
+      <reverse-related>Burn Worldly Ties</reverse-related>
+      <reverse-related>Occult Fascination</reverse-related>
+      <reverse-related>Rites of the Eschaton</reverse-related>
+      <reverse-related>RM02, Irdol Executive</reverse-related>
+    </card>
+    <card>
+      <name>Human Soldier</name>
+      <set></set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Banishment Squad</reverse-related>
+      <reverse-related>Facility Expansion</reverse-related>
+      <reverse-related count="2">Veil of Ignorance</reverse-related>
+      <reverse-related>Containment Squad</reverse-related>
+      <reverse-related>Hunted Aspirant</reverse-related>
+      <reverse-related>Hunted Monstrosity</reverse-related>
+    </card>
+    <card>
+      <name>Spirit Warlock</name>
+      <set></set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Spirit Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Eager Deathseeker</reverse-related>
+    </card>
+    <card>
+      <name>Human Cleric</name>
+      <set></set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related count="2">Pray for Unity</reverse-related>
+      <reverse-related>RM05, Speaker for the One</reverse-related>
+      <reverse-related>Unanimist Zeitgeist</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare Wurm</name>
+      <set></set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Nightmare Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}</text>
+      <token>1</token>
+      <reverse-related>Call from Beyond</reverse-related>
+    </card>
+    <card>
+      <name>Ooze Shapeshifter</name>
+      <set></set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Ooze Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+      <token>1</token>
+      <reverse-related>Gelatinous Birth</reverse-related>
+    </card>
+    <card>
+      <name>Elemental</name>
+      <set></set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Shackle the Wind</reverse-related>
+    </card>
+    <card>
+      <name>Human Rogue</name>
+      <set></set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Anomalous Escalation</reverse-related>
+      <reverse-related>Burn Worldly Ties</reverse-related>
+      <reverse-related count="2">Incite Turmoil</reverse-related>
+    </card>
+    <card>
+      <name>Insect</name>
+      <set></set>
+      <prop>
+        <colors>BG</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Infested Wormlich</reverse-related>
+    </card>
+    <card>
+      <name>Yl-Tesim&apos;s Reflection</name>
+      <set></set>
+      <prop>
+        <colors>WR</colors>
+        <type>Token Creature</type>
+        <maintype>Creature</maintype>
+        <pt>6/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Yl-Tesim’s Reflection is a Nightmare God Reflection.
+Flying, menace</text>
+      <token>1</token>
+      <reverse-related>Yl-Tesim</reverse-related>
+    </card>
+    <card>
+      <name>Heart of the Noosphere</name>
+      <set></set>
+      <prop>
+        <colors></colors>
+        <type>Token Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add WUBRG.</text>
+      <token>1</token>
+      <reverse-related>Mabil, Dreamscape Delver</reverse-related>
+    </card>
+    <card>
+      <name>Crisis of Faith</name>
+      <set></set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this enchantment: Scry 1. You gain 1 life.</text>
+      <token>1</token>
+      <reverse-related>Lamb of the One</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
