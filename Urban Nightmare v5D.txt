@@ -5,7 +5,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wake Up.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWake Up.png"
 			}
 		},
 		{
@@ -14,7 +14,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Amnestic Dose.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAmnestic Dose.png"
 			}
 		},
 		{
@@ -23,7 +23,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wayward Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWayward Aspirant.png"
 			}
 		},
 		{
@@ -32,7 +32,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Nightmare Dog ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Immemnon's Retriever.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImmemnon's Retriever.png"
 			}
 		},
 		{
@@ -41,7 +41,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Nightmare Unicorn ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Liminal Sentry.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Sentry.png"
 			}
 		},
 		{
@@ -50,7 +50,7 @@
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Memory Extraction.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMemory Extraction.png"
 			}
 		},
 		{
@@ -59,7 +59,7 @@
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Mountain.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMountain.png"
 			}
 		},
 		{
@@ -68,7 +68,7 @@
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Soldier Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Containment Operative.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DContainment Operative.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Nightmare Fungus ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Oblivion Scavenger.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOblivion Scavenger.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fervid Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFervid Aspirant.png"
 			}
 		},
 		{
@@ -95,7 +95,7 @@
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Horror Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Priest of Yl-Tesim.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPriest of Yl-Tesim.png"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 			"mana_cost": "{1}{U}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Runaway Noosynthesis.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRunaway Noosynthesis.png"
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Nightmare Construct ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dream-Lab Prototype.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDream-Lab Prototype.png"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Ooze ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Profane Creation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DProfane Creation.png"
 			}
 		},
 		{
@@ -131,7 +131,7 @@
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Throne of Czendramahlix.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThrone of Czendramahlix.png"
 			}
 		},
 		{
@@ -140,7 +140,7 @@
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Nightmare Insect ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Aeons' Emissary.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAeons' Emissary.png"
 			}
 		},
 		{
@@ -149,7 +149,7 @@
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unanimist Conviction.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnanimist Conviction.png"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fleshwarp.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFleshwarp.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Nightmare Ooze ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Congealed Dreamstuff.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCongealed Dreamstuff.png"
 			}
 		},
 		{
@@ -176,7 +176,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Distended Wretch.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDistended Wretch.png"
 			}
 		},
 		{
@@ -185,7 +185,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Ooze ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Failed Prototype.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFailed Prototype.png"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Ooze Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Beloved Flesh.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBeloved Flesh.png"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Plant ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Overgrown Pumpkin.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOvergrown Pumpkin.png"
 			}
 		},
 		{
@@ -212,7 +212,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Haunting Musician.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHaunting Musician.png"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Devout Occultist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDevout Occultist.png"
 			}
 		},
 		{
@@ -230,7 +230,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wayward Apparition.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWayward Apparition.png"
 			}
 		},
 		{
@@ -239,7 +239,7 @@
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Nightmare Eye ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unsettling Watchers.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnsettling Watchers.png"
 			}
 		},
 		{
@@ -248,7 +248,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Vampire Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Cold-Blooded Agent.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCold-Blooded Agent.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Banishment Squad.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBanishment Squad.png"
 			}
 		},
 		{
@@ -266,7 +266,7 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Eager Deathseeker.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEager Deathseeker.png"
 			}
 		},
 		{
@@ -275,7 +275,7 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fanatical Dreamer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFanatical Dreamer.png"
 			}
 		},
 		{
@@ -284,7 +284,7 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Impassioned Preacher.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImpassioned Preacher.png"
 			}
 		},
 		{
@@ -293,7 +293,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Keep Contained.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DKeep Contained.png"
 			}
 		},
 		{
@@ -302,7 +302,7 @@
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ghostly Visitation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DGhostly Visitation.png"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Faithful Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFaithful Aspirant.png"
 			}
 		},
 		{
@@ -320,16 +320,16 @@
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Solemn Gatekeeper.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSolemn Gatekeeper.png"
 			}
 		},
 		{
 			"name": "Faith in the One",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Faith in the One.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFaith in the One.png"
 			}
 		},
 		{
@@ -338,7 +338,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Miraculous Ascension.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMiraculous Ascension.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Subsumed by Dream.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSubsumed by Dream.png"
 			}
 		},
 		{
@@ -356,70 +356,70 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unanimist Clergy.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnanimist Clergy.png"
 			}
 		},
 		{
-			"name": "Rites of the All-Dream",
+			"name": "Rite of the All-Dream",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{U}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the All-Dream_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the All-Dream_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the All-Dream_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the All-Dream_back.png"
 				}
 			}
 		},
 		{
-			"name": "Rites of the Holy Flesh",
+			"name": "Rite of the Holy Flesh",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{W}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Holy Flesh_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Holy Flesh_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Holy Flesh_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Holy Flesh_back.png"
 				}
 			}
 		},
 		{
-			"name": "Rites of the Ever-Worm",
+			"name": "Rite of the Ever-Worm",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Ever-Worm_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Ever-Worm_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Ever-Worm_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Ever-Worm_back.png"
 				}
 			}
 		},
 		{
-			"name": "Rites of the Eschaton",
+			"name": "Rite of the Eschaton",
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Eschaton_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Eschaton_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Eschaton_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Eschaton_back.png"
 				}
 			}
 		},
@@ -429,7 +429,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Somnolent Snare.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSomnolent Snare.png"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Display of Talent.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDisplay of Talent.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Embrace Death.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEmbrace Death.png"
 			}
 		},
 		{
@@ -456,7 +456,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Incongruous Growth.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIncongruous Growth.png"
 			}
 		},
 		{
@@ -465,7 +465,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Embodiment of Pain.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEmbodiment of Pain.png"
 			}
 		},
 		{
@@ -474,7 +474,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Abduct for Study.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAbduct for Study.png"
 			}
 		},
 		{
@@ -483,7 +483,7 @@
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Peculiar Affliction.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPeculiar Affliction.png"
 			}
 		},
 		{
@@ -492,7 +492,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Hinterland Pet.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHinterland Pet.png"
 			}
 		},
 		{
@@ -501,7 +501,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Nightmare Construct ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Conjured Servitor.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DConjured Servitor.png"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Containment Squad.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DContainment Squad.png"
 			}
 		},
 		{
@@ -519,7 +519,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Strange Disappearance.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DStrange Disappearance.png"
 			}
 		},
 		{
@@ -528,7 +528,7 @@
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vortex Mage.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVortex Mage.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Nightmare Serpent ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Voice of the Drowned.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVoice of the Drowned.png"
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Nightmare Drake ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Uncaged Cryptid.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUncaged Cryptid.png"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Emergency Task Force.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEmergency Task Force.png"
 			}
 		},
 		{
@@ -564,7 +564,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Skincover.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSkincover.png"
 			}
 		},
 		{
@@ -573,7 +573,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Redact.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRedact.png"
 			}
 		},
 		{
@@ -582,7 +582,7 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Foreboding Dream.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DForeboding Dream.png"
 			}
 		},
 		{
@@ -591,7 +591,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Curious Occultist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCurious Occultist.png"
 			}
 		},
 		{
@@ -600,7 +600,7 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Spirit Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Astral Projection.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAstral Projection.png"
 			}
 		},
 		{
@@ -609,7 +609,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Nightmare Beast ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Caged Anomaly.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCaged Anomaly.png"
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Coax the Dead.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCoax the Dead.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Midnight Apparition.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMidnight Apparition.png"
 			}
 		},
 		{
@@ -636,7 +636,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Doomed Dreamer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDoomed Dreamer.png"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lifetime Guarantee.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLifetime Guarantee.png"
 			}
 		},
 		{
@@ -654,7 +654,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Demonic Deal.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDemonic Deal.png"
 			}
 		},
 		{
@@ -663,7 +663,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Veteran Hemomancer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVeteran Hemomancer.png"
 			}
 		},
 		{
@@ -672,7 +672,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire Rogue ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Bloodbound Youth.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBloodbound Youth.png"
 			}
 		},
 		{
@@ -681,7 +681,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ambitious Occultist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAmbitious Occultist.png"
 			}
 		},
 		{
@@ -690,7 +690,7 @@
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Nightmare Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Phobic Herald.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPhobic Herald.png"
 			}
 		},
 		{
@@ -699,7 +699,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ravenous Rats.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRavenous Rats.png"
 			}
 		},
 		{
@@ -708,7 +708,7 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Nightmares' Claim.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNightmares' Claim.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Human Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Kinetic Adept.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DKinetic Adept.png"
 			}
 		},
 		{
@@ -726,7 +726,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Tide of Gore.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTide of Gore.png"
 			}
 		},
 		{
@@ -735,25 +735,25 @@
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vand's Influence.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVand's Influence.png"
 			}
 		},
 		{
 			"name": "Anomalous Escalation",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Anomalous Escalation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAnomalous Escalation.png"
 			}
 		},
 		{
 			"name": "Break Cover",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Break Cover.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBreak Cover.png"
 			}
 		},
 		{
@@ -762,7 +762,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Tempting Discovery.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTempting Discovery.png"
 			}
 		},
 		{
@@ -771,7 +771,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vengeful Occultist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVengeful Occultist.png"
 			}
 		},
 		{
@@ -780,7 +780,7 @@
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Rogue Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Discordant Mob.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDiscordant Mob.png"
 			}
 		},
 		{
@@ -789,7 +789,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pyre-Born Effigy.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPyre-Born Effigy.png"
 			}
 		},
 		{
@@ -798,7 +798,7 @@
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Nightmare Giant ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Intrusive Animus.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIntrusive Animus.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Nightmare Treefolk ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Echo of Wildfire.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEcho of Wildfire.png"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Call from Beyond.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCall from Beyond.png"
 			}
 		},
 		{
@@ -825,7 +825,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Faerie Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Forsaken Sidhe.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DForsaken Sidhe.png"
 			}
 		},
 		{
@@ -834,7 +834,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Deathbed Caterpillar.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDeathbed Caterpillar.png"
 			}
 		},
 		{
@@ -843,7 +843,7 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Nightmare Yeti ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Primal Fear.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPrimal Fear.png"
 			}
 		},
 		{
@@ -852,7 +852,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Backwoods Instincts.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBackwoods Instincts.png"
 			}
 		},
 		{
@@ -861,7 +861,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Nightmare Elk ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wild Harbingers.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWild Harbingers.png"
 			}
 		},
 		{
@@ -870,7 +870,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Succumb to Appetite.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSuccumb to Appetite.png"
 			}
 		},
 		{
@@ -879,7 +879,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Strength of the Ever-Worm.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DStrength of the Ever-Worm.png"
 			}
 		},
 		{
@@ -888,7 +888,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Reclusive Occultist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DReclusive Occultist.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Surreal Haze.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSurreal Haze.png"
 			}
 		},
 		{
@@ -906,7 +906,7 @@
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Heiress to Ancient Rites.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHeiress to Ancient Rites.png"
 			}
 		},
 		{
@@ -915,7 +915,7 @@
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Construct ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Archive Stalker.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DArchive Stalker.png"
 			}
 		},
 		{
@@ -924,7 +924,7 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ritual Dagger.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRitual Dagger.png"
 			}
 		},
 		{
@@ -933,16 +933,16 @@
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Wall ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unearthly Membrane.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnearthly Membrane.png"
 			}
 		},
 		{
-			"name": "Evolving Wilds",
+			"name": "Oneiric Path",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Enchantment Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Evolving Wilds.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOneiric Path.png"
 			}
 		},
 		{
@@ -951,7 +951,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Eschaton Fragment.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEschaton Fragment.png"
 			}
 		},
 		{
@@ -960,7 +960,7 @@
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Plains.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPlains.png"
 			}
 		},
 		{
@@ -969,7 +969,7 @@
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Island.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIsland.png"
 			}
 		},
 		{
@@ -978,7 +978,7 @@
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Swamp.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSwamp.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Forest.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DForest.png"
 			}
 		},
 		{
@@ -996,7 +996,7 @@
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Hybdora, ASPIRE Founder.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHybdora, ASPIRE Founder.png"
 			}
 		},
 		{
@@ -1005,7 +1005,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Zombie Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Enlightened Wormlich.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEnlightened Wormlich.png"
 			}
 		},
 		{
@@ -1014,22 +1014,22 @@
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Human Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Eshil, Discordant Voice.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEshil, Discordant Voice.png"
 			}
 		},
 		{
 			"name": "Open Your Mind",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Open Your Mind_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOpen Your Mind_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Open Your Mind_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOpen Your Mind_back.png"
 				}
 			}
 		},
@@ -1037,15 +1037,15 @@
 			"name": "Breach the Veil",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Breach the Veil_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBreach the Veil_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Breach the Veil_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBreach the Veil_back.png"
 				}
 			}
 		},
@@ -1053,15 +1053,15 @@
 			"name": "Pay in Blood",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pay in Blood_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPay in Blood_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pay in Blood_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPay in Blood_back.png"
 				}
 			}
 		},
@@ -1069,15 +1069,15 @@
 			"name": "Burn Worldly Ties",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Burn Worldly Ties_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBurn Worldly Ties_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Burn Worldly Ties_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBurn Worldly Ties_back.png"
 				}
 			}
 		},
@@ -1085,15 +1085,15 @@
 			"name": "Wander in Dream",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wander in Dream_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWander in Dream_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wander in Dream_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWander in Dream_back.png"
 				}
 			}
 		},
@@ -1103,7 +1103,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Glimpse of Magic.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DGlimpse of Magic.png"
 			}
 		},
 		{
@@ -1112,7 +1112,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Spirit.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSpirit.png"
 			}
 		},
 		{
@@ -1121,7 +1121,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Thrull ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Thrull.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThrull.png"
 			}
 		},
 		{
@@ -1130,7 +1130,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Nightmare.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNightmare.png"
 			}
 		},
 		{
@@ -1139,7 +1139,7 @@
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Treasure.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTreasure.png"
 			}
 		},
 		{
@@ -1148,7 +1148,7 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Reality Seizure.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DReality Seizure.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Nightmare Shapeshifter ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Tremorling.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTremorling.png"
 			}
 		},
 		{
@@ -1166,7 +1166,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/ASPIRE Copywriter.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DASPIRE Copywriter.png"
 			}
 		},
 		{
@@ -1175,7 +1175,7 @@
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Human Advisor ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Cadis Yeln, IPC Chair.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCadis Yeln, IPC Chair.png"
 			}
 		},
 		{
@@ -1184,16 +1184,16 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Chief Executive J. Irdol III.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DChief Executive J. Irdol III.png"
 			}
 		},
 		{
 			"name": "Palo, Speaker for the One",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Palo, Speaker for the One.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPalo, Speaker for the One.png"
 			}
 		},
 		{
@@ -1202,22 +1202,22 @@
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unnerving Statue.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnnerving Statue.png"
 			}
 		},
 		{
-			"name": "Rites of the Ashen King",
+			"name": "Rite of the Ashen King",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{B}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Ashen King_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Ashen King_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Ashen King_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Ashen King_back.png"
 				}
 			}
 		},
@@ -1227,7 +1227,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Nightmare Leech ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Virulent Brainseeker.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVirulent Brainseeker.png"
 			}
 		},
 		{
@@ -1236,7 +1236,7 @@
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Nightmare Worm ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Maw of Hafnordrun.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMaw of Hafnordrun.png"
 			}
 		},
 		{
@@ -1245,7 +1245,7 @@
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Gelatinous Birth.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DGelatinous Birth.png"
 			}
 		},
 		{
@@ -1254,7 +1254,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Homunculus ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Escaped Subject.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEscaped Subject.png"
 			}
 		},
 		{
@@ -1263,7 +1263,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Absent Twins.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAbsent Twins.png"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Beast Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Feral Monstrosity.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFeral Monstrosity.png"
 			}
 		},
 		{
@@ -1281,7 +1281,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Novice Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNovice Aspirant.png"
 			}
 		},
 		{
@@ -1290,7 +1290,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Implacable Revenant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImplacable Revenant.png"
 			}
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Hunted Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHunted Aspirant.png"
 			}
 		},
 		{
@@ -1308,7 +1308,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Nightmare Beast ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Hunted Monstrosity.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHunted Monstrosity.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Prophetic Prism.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DProphetic Prism.png"
 			}
 		},
 		{
@@ -1326,7 +1326,7 @@
 			"mana_cost": "{1}",
 			"type": "Creature — Human Citizen ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wistful Notary.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWistful Notary.png"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Impossible Abduction.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImpossible Abduction.png"
 			}
 		},
 		{
@@ -1344,7 +1344,7 @@
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Power Fantasy.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPower Fantasy.png"
 			}
 		},
 		{
@@ -1353,7 +1353,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Evangel of Unity.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEvangel of Unity.png"
 			}
 		},
 		{
@@ -1362,7 +1362,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rescue from the Brink.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRescue from the Brink.png"
 			}
 		},
 		{
@@ -1371,7 +1371,7 @@
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Callous Display.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCallous Display.png"
 			}
 		},
 		{
@@ -1380,7 +1380,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Human Soldier.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHuman Soldier.png"
 			}
 		},
 		{
@@ -1389,7 +1389,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Spirit Warlock.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSpirit Warlock.png"
 			}
 		},
 		{
@@ -1398,7 +1398,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Human Cleric.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHuman Cleric.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare Wurm ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Nightmare Wurm.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNightmare Wurm.png"
 			}
 		},
 		{
@@ -1416,7 +1416,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Ooze Shapeshifter ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ooze Shapeshifter.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOoze Shapeshifter.png"
 			}
 		},
 		{
@@ -1425,7 +1425,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Crossroads Incursion.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCrossroads Incursion.png"
 			}
 		},
 		{
@@ -1434,7 +1434,7 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Homunculus ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Prized Subject.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPrized Subject.png"
 			}
 		},
 		{
@@ -1443,7 +1443,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Shapeshifter Siren ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Deepspawn Siren.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDeepspawn Siren.png"
 			}
 		},
 		{
@@ -1452,7 +1452,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/ASPIRE Sponsor.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DASPIRE Sponsor.png"
 			}
 		},
 		{
@@ -1461,7 +1461,7 @@
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Imperfect Revival.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImperfect Revival.png"
 			}
 		},
 		{
@@ -1470,7 +1470,7 @@
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Satu's Lieutenant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSatu's Lieutenant.png"
 			}
 		},
 		{
@@ -1479,7 +1479,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Sin-Chained Souls.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSin-Chained Souls.png"
 			}
 		},
 		{
@@ -1488,7 +1488,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Self-Taught Exorcist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSelf-Taught Exorcist.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Nightmare Angel ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Notion of Judgment.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNotion of Judgment.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric Monk ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Austere Dreamer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAustere Dreamer.png"
 			}
 		},
 		{
@@ -1515,7 +1515,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Veil of Ignorance.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVeil of Ignorance.png"
 			}
 		},
 		{
@@ -1524,22 +1524,22 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Human ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Indecisive Transmortal.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIndecisive Transmortal.png"
 			}
 		},
 		{
 			"name": "Pray for Unity",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pray for Unity_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPray for Unity_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pray for Unity_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPray for Unity_back.png"
 				}
 			}
 		},
@@ -1549,7 +1549,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Shackle the Wind.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DShackle the Wind.png"
 			}
 		},
 		{
@@ -1558,7 +1558,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rogue ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ingredient Smuggler.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIngredient Smuggler.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Favored Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFavored Aspirant.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Nightmare Spider ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ancient Dreamweaver.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAncient Dreamweaver.png"
 			}
 		},
 		{
@@ -1585,7 +1585,7 @@
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Torpor Mage.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTorpor Mage.png"
 			}
 		},
 		{
@@ -1594,7 +1594,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Oneiric Scrutiny.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOneiric Scrutiny.png"
 			}
 		},
 		{
@@ -1603,7 +1603,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Arcane Resonation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DArcane Resonation.png"
 			}
 		},
 		{
@@ -1612,7 +1612,7 @@
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Malignosis Outbreak.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMalignosis Outbreak.png"
 			}
 		},
 		{
@@ -1621,7 +1621,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Refulgent Bolt.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRefulgent Bolt.png"
 			}
 		},
 		{
@@ -1630,7 +1630,7 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Contemplative Dreamer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DContemplative Dreamer.png"
 			}
 		},
 		{
@@ -1639,7 +1639,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Reforge Occult Ties.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DReforge Occult Ties.png"
 			}
 		},
 		{
@@ -1648,7 +1648,7 @@
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fanciful Dreamer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFanciful Dreamer.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Nightmare Cat ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Invasive Paradigm.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DInvasive Paradigm.png"
 			}
 		},
 		{
@@ -1666,7 +1666,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Agents of the Eschaton.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAgents of the Eschaton.png"
 			}
 		},
 		{
@@ -1675,7 +1675,7 @@
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pineal Siphon.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPineal Siphon.png"
 			}
 		},
 		{
@@ -1684,7 +1684,7 @@
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vessel of Corruption.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVessel of Corruption.png"
 			}
 		},
 		{
@@ -1693,22 +1693,22 @@
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/The Archivist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThe Archivist.png"
 			}
 		},
 		{
 			"name": "Seek the Archive",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Seek the Archive_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSeek the Archive_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Seek the Archive_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSeek the Archive_back.png"
 				}
 			}
 		},
@@ -1718,7 +1718,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Consecrated Bus.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DConsecrated Bus.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dangerous Idea.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDangerous Idea.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Peter Welles, Reawakened.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPeter Welles, Reawakened.png"
 			}
 		},
 		{
@@ -1745,16 +1745,16 @@
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Elemental Spirit.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DElemental Spirit.png"
 			}
 		},
 		{
 			"name": "IPC Zeitgeist",
 			"rarity": "mythic",
-			"mana_cost": "{2}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/IPC Zeitgeist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIPC Zeitgeist.png"
 			}
 		},
 		{
@@ -1763,7 +1763,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Hypnagogic Broadcast.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHypnagogic Broadcast.png"
 			}
 		},
 		{
@@ -1772,7 +1772,7 @@
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Delve the Noosphere.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDelve the Noosphere.png"
 			}
 		},
 		{
@@ -1781,7 +1781,7 @@
 			"mana_cost": "{B}",
 			"type": "Creature — Human Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Occult Prodigy.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOccult Prodigy.png"
 			}
 		},
 		{
@@ -1790,16 +1790,16 @@
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Zombie Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Infested Wormlich.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DInfested Wormlich.png"
 			}
 		},
 		{
 			"name": "Unanimist Zeitgeist",
 			"rarity": "mythic",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unanimist Zeitgeist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnanimist Zeitgeist.png"
 			}
 		},
 		{
@@ -1808,7 +1808,7 @@
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Irdol Zeitgeist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIrdol Zeitgeist.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Discordance Zeitgeist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDiscordance Zeitgeist.png"
 			}
 		},
 		{
@@ -1826,7 +1826,7 @@
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/ASPIRE Zeitgeist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DASPIRE Zeitgeist.png"
 			}
 		},
 		{
@@ -1835,7 +1835,7 @@
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Planeswalker — Lettie ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wormwood, Racketeer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWormwood, Racketeer.png"
 			}
 		},
 		{
@@ -1844,7 +1844,7 @@
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura Curse ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Bound Distortion.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBound Distortion.png"
 			}
 		},
 		{
@@ -1853,7 +1853,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Black Circle Summoner.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBlack Circle Summoner.png"
 			}
 		},
 		{
@@ -1862,7 +1862,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Sign of Discontent.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSign of Discontent.png"
 			}
 		},
 		{
@@ -1871,7 +1871,7 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Nightmare Illusion Sheep ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lamb of the One.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLamb of the One.png"
 			}
 		},
 		{
@@ -1880,7 +1880,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Task Force Armorer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTask Force Armorer.png"
 			}
 		},
 		{
@@ -1889,7 +1889,7 @@
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Planeswalker — Vand ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vand, the Breaking Dream.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVand, the Breaking Dream.png"
 			}
 		},
 		{
@@ -1898,7 +1898,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Nightmare Angel ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Bestower of Fate.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBestower of Fate.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Ooze Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Catastrophic Mistake.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCatastrophic Mistake.png"
 			}
 		},
 		{
@@ -1916,7 +1916,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fears Made Manifest.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFears Made Manifest.png"
 			}
 		},
 		{
@@ -1925,7 +1925,7 @@
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Nightmare Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Notion of Malice.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNotion of Malice.png"
 			}
 		},
 		{
@@ -1934,7 +1934,7 @@
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Psychic Trepanation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPsychic Trepanation.png"
 			}
 		},
 		{
@@ -1943,7 +1943,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Memory of Ages Lost.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMemory of Ages Lost.png"
 			}
 		},
 		{
@@ -1952,7 +1952,7 @@
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Nightmare Kraken ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Notion of Doubt.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNotion of Doubt.png"
 			}
 		},
 		{
@@ -1961,7 +1961,7 @@
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Nightmare Giant ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Notion of Craving.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNotion of Craving.png"
 			}
 		},
 		{
@@ -1970,7 +1970,7 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Nightmare Beast ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Notion of Atavism.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNotion of Atavism.png"
 			}
 		},
 		{
@@ -1979,7 +1979,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/State of Paranoia.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DState of Paranoia.png"
 			}
 		},
 		{
@@ -1988,7 +1988,7 @@
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dazzling Reverie.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDazzling Reverie.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Nightmare Chimera ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Feedlot Abomination.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFeedlot Abomination.png"
 			}
 		},
 		{
@@ -2006,7 +2006,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Incite Turmoil.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIncite Turmoil.png"
 			}
 		},
 		{
@@ -2015,7 +2015,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Protest Zone.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DProtest Zone.png"
 			}
 		},
 		{
@@ -2024,7 +2024,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Might Channeler.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMight Channeler.png"
 			}
 		},
 		{
@@ -2033,7 +2033,7 @@
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Horror Cleric ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Anointed Consecrator.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAnointed Consecrator.png"
 			}
 		},
 		{
@@ -2042,7 +2042,7 @@
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Vampire Noble Warlock ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Immortal Heir.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImmortal Heir.png"
 			}
 		},
 		{
@@ -2051,7 +2051,7 @@
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Nightmare Shapeshifter ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Trace of the All-Dream.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTrace of the All-Dream.png"
 			}
 		},
 		{
@@ -2060,7 +2060,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Cleric Druid ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Worldtongue Heretic.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DWorldtongue Heretic.png"
 			}
 		},
 		{
@@ -2069,7 +2069,7 @@
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Veilguard Elite.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DVeilguard Elite.png"
 			}
 		},
 		{
@@ -2078,7 +2078,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Expunge from Records.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DExpunge from Records.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Yeln's Sanction.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DYeln's Sanction.png"
 			}
 		},
 		{
@@ -2096,7 +2096,7 @@
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Facility Expansion.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFacility Expansion.png"
 			}
 		},
 		{
@@ -2105,7 +2105,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Horror Soldier ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Enhanced Enforcer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEnhanced Enforcer.png"
 			}
 		},
 		{
@@ -2114,7 +2114,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Missing Piece.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMissing Piece.png"
 			}
 		},
 		{
@@ -2123,7 +2123,7 @@
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard Mutant ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Escaping Omnipath.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEscaping Omnipath.png"
 			}
 		},
 		{
@@ -2132,7 +2132,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Horror Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Augmented Researcher.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAugmented Researcher.png"
 			}
 		},
 		{
@@ -2141,7 +2141,7 @@
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Aeon of Purpose.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAeon of Purpose.png"
 			}
 		},
 		{
@@ -2150,7 +2150,7 @@
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Nightmare Eye ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Phantasmal Overseer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPhantasmal Overseer.png"
 			}
 		},
 		{
@@ -2159,7 +2159,7 @@
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Nightmare Demon ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Immortality Peddler.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImmortality Peddler.png"
 			}
 		},
 		{
@@ -2168,7 +2168,7 @@
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Experimental Treatment.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DExperimental Treatment.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Eternity's Plaything.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEternity's Plaything.png"
 			}
 		},
 		{
@@ -2186,7 +2186,7 @@
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Merciful End.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMerciful End.png"
 			}
 		},
 		{
@@ -2195,7 +2195,7 @@
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Elemental Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Discordant Magus.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDiscordant Magus.png"
 			}
 		},
 		{
@@ -2204,16 +2204,16 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Daydream Visitors.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDaydream Visitors.png"
 			}
 		},
 		{
 			"name": "Solve et Coagula",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Solve et Coagula.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSolve et Coagula.png"
 			}
 		},
 		{
@@ -2222,7 +2222,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fevered Dreams.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFevered Dreams.png"
 			}
 		},
 		{
@@ -2231,7 +2231,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Xyldri Scout ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dream-Borne Starfarer.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDream-Borne Starfarer.png"
 			}
 		},
 		{
@@ -2240,7 +2240,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Bucolic Innocence.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBucolic Innocence.png"
 			}
 		},
 		{
@@ -2249,7 +2249,7 @@
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Nightmare Avatar ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Aeon of Meaning.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAeon of Meaning.png"
 			}
 		},
 		{
@@ -2258,7 +2258,7 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Nightmare Troll ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Primordial Shepherd.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPrimordial Shepherd.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Creature — Nightmare Elemental ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Genius Loci.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DGenius Loci.png"
 			}
 		},
 		{
@@ -2276,7 +2276,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Metamorphosis Chamber.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMetamorphosis Chamber.png"
 			}
 		},
 		{
@@ -2285,7 +2285,7 @@
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Atrocity Site.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DAtrocity Site.png"
 			}
 		},
 		{
@@ -2294,16 +2294,16 @@
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact — Equipment ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Truthcleaver, Satu's Blade.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTruthcleaver, Satu's Blade.png"
 			}
 		},
 		{
 			"name": "Profound Revelation",
 			"rarity": "rare",
-			"mana_cost": "{7}{U}",
+			"mana_cost": "{5}{U}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Profound Revelation.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DProfound Revelation.png"
 			}
 		},
 		{
@@ -2312,7 +2312,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Raving Aspirant.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRaving Aspirant.png"
 			}
 		},
 		{
@@ -2321,7 +2321,7 @@
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Romantic Vision.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRomantic Vision.png"
 			}
 		},
 		{
@@ -2330,7 +2330,7 @@
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Utopian Vision.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUtopian Vision.png"
 			}
 		},
 		{
@@ -2339,7 +2339,7 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Bleak Vision.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBleak Vision.png"
 			}
 		},
 		{
@@ -2348,7 +2348,7 @@
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Cosmic Vision.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCosmic Vision.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Cancerous Vision.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCancerous Vision.png"
 			}
 		},
 		{
@@ -2366,22 +2366,22 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Ooze Shapeshifter ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Perfecter of Form.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPerfecter of Form.png"
 			}
 		},
 		{
-			"name": "Rites of the Angleworm",
+			"name": "Rite of the Angleworm",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Angleworm_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Angleworm_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Rites of the Angleworm_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DRite of the Angleworm_back.png"
 				}
 			}
 		},
@@ -2389,15 +2389,15 @@
 			"name": "Consecrate Flesh",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Consecrate Flesh_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DConsecrate Flesh_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Consecrate Flesh_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DConsecrate Flesh_back.png"
 				}
 			}
 		},
@@ -2405,15 +2405,15 @@
 			"name": "Beseech the First Ones",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Ritual ",
+			"type": "Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Beseech the First Ones_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBeseech the First Ones_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Beseech the First Ones_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBeseech the First Ones_back.png"
 				}
 			}
 		},
@@ -2423,7 +2423,7 @@
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Planeswalker — Satu ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Satu Var, Hexkeeper.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSatu Var, Hexkeeper.png"
 			}
 		},
 		{
@@ -2432,7 +2432,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Stalking Soulmate.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DStalking Soulmate.png"
 			}
 		},
 		{
@@ -2441,7 +2441,7 @@
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Planeswalker — Mabil ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Mabil, Dreamscape Delver.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMabil, Dreamscape Delver.png"
 			}
 		},
 		{
@@ -2450,7 +2450,7 @@
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Occult Fascination.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOccult Fascination.png"
 			}
 		},
 		{
@@ -2459,22 +2459,22 @@
 			"mana_cost": "",
 			"type": "Token Creature — Human Rogue ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Human Rogue.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHuman Rogue.png"
 			}
 		},
 		{
 			"name": "Fateful Excavation",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact Enchantment — Ritual ",
+			"type": "Artifact Enchantment — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fateful Excavation_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFateful Excavation_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Fateful Excavation_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DFateful Excavation_back.png"
 				}
 			}
 		},
@@ -2484,7 +2484,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dreamwild Intrusion.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDreamwild Intrusion.png"
 			}
 		},
 		{
@@ -2493,7 +2493,7 @@
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unleash Potential.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnleash Potential.png"
 			}
 		},
 		{
@@ -2502,22 +2502,22 @@
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Clairvoyance Tank.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DClairvoyance Tank.png"
 			}
 		},
 		{
 			"name": "Through Eerie Woods",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Enchantment Land — Ritual ",
+			"type": "Enchantment Land — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Through Eerie Woods_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThrough Eerie Woods_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Through Eerie Woods_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThrough Eerie Woods_back.png"
 				}
 			}
 		},
@@ -2525,15 +2525,15 @@
 			"name": "On Empty Streets",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Enchantment Land — Ritual ",
+			"type": "Enchantment Land — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/On Empty Streets_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOn Empty Streets_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/On Empty Streets_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOn Empty Streets_back.png"
 				}
 			}
 		},
@@ -2541,15 +2541,15 @@
 			"name": "Up Cryptic Spires",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Enchantment Land — Ritual ",
+			"type": "Enchantment Land — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Up Cryptic Spires_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUp Cryptic Spires_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Up Cryptic Spires_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUp Cryptic Spires_back.png"
 				}
 			}
 		},
@@ -2557,15 +2557,15 @@
 			"name": "Down Twisted Corridors",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Enchantment Land — Ritual ",
+			"type": "Enchantment Land — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Down Twisted Corridors_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDown Twisted Corridors_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Down Twisted Corridors_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDown Twisted Corridors_back.png"
 				}
 			}
 		},
@@ -2575,22 +2575,22 @@
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Blessing of Harmony.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DBlessing of Harmony.png"
 			}
 		},
 		{
 			"name": "Past Distant Thresholds",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Enchantment Land — Ritual ",
+			"type": "Enchantment Land — Rite ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Past Distant Thresholds_front.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPast Distant Thresholds_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Past Distant Thresholds_back.png"
+					"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPast Distant Thresholds_back.png"
 				}
 			}
 		},
@@ -2600,7 +2600,7 @@
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Laboratory Maniac.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLaboratory Maniac.png"
 			}
 		},
 		{
@@ -2609,7 +2609,7 @@
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Nightmare Shapeshifter ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Trustworthy Colleague.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DTrustworthy Colleague.png"
 			}
 		},
 		{
@@ -2618,7 +2618,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Goat ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Purebred Offering.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPurebred Offering.png"
 			}
 		},
 		{
@@ -2627,52 +2627,52 @@
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Nightmare Gorgon ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Gaze of the Abyss.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DGaze of the Abyss.png"
 			}
 		},
 		{
-			"name": "Lucid Crag",
+			"name": "Liminal Crag",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lucid Crag.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Crag.png"
 			}
 		},
 		{
-			"name": "Lucid Creek",
+			"name": "Liminal Creek",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lucid Creek.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Creek.png"
 			}
 		},
 		{
-			"name": "Lucid Grove",
+			"name": "Liminal Grove",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lucid Grove.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Grove.png"
 			}
 		},
 		{
-			"name": "Lucid Marsh",
+			"name": "Liminal Bog",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lucid Marsh.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Bog.png"
 			}
 		},
 		{
-			"name": "Lucid Meadow",
+			"name": "Liminal Prairie",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Lucid Meadow.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLiminal Prairie.png"
 			}
 		},
 		{
@@ -2681,7 +2681,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Volver Processor ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Inexplicable Entity.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DInexplicable Entity.png"
 			}
 		},
 		{
@@ -2690,7 +2690,7 @@
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Destructive Impulse.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDestructive Impulse.png"
 			}
 		},
 		{
@@ -2699,7 +2699,7 @@
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Druid Rogue Shaman ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Discordant Collective.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDiscordant Collective.png"
 			}
 		},
 		{
@@ -2708,16 +2708,16 @@
 			"mana_cost": "",
 			"type": "Token Creature — Insect ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Insect.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DInsect.png"
 			}
 		},
 		{
-			"name": "Yl-Tesim's Reflection",
+			"name": "Reflection",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature",
+			"type": "Token Creature — Reflection ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Yl-Tesim's Reflection.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DReflection.png"
 			}
 		},
 		{
@@ -2726,7 +2726,7 @@
 			"mana_cost": "",
 			"type": "Token Legendary Land",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Heart of the Noosphere.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHeart of the Noosphere.png"
 			}
 		},
 		{
@@ -2735,7 +2735,7 @@
 			"mana_cost": "",
 			"type": "Token Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Crisis of Faith.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DCrisis of Faith.png"
 			}
 		},
 		{
@@ -2744,7 +2744,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Elemental.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DElemental.png"
 			}
 		},
 		{
@@ -2753,16 +2753,16 @@
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Unmarked Helicopter.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DUnmarked Helicopter.png"
 			}
 		},
 		{
-			"name": "Dysmorphosis Epidemic",
+			"name": "Dysmorphosis Carrier",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment",
+			"type": "Creature — Human Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Dysmorphosis Epidemic.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDysmorphosis Carrier.png"
 			}
 		},
 		{
@@ -2771,7 +2771,7 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment — Aura Curse ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Mundophobia.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DMundophobia.png"
 			}
 		},
 		{
@@ -2780,7 +2780,7 @@
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Nightmare Leviathan ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Looming Presence.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DLooming Presence.png"
 			}
 		},
 		{
@@ -2789,7 +2789,7 @@
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Nightmare Archon ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Oppressive Dreamwarden.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DOppressive Dreamwarden.png"
 			}
 		},
 		{
@@ -2798,7 +2798,7 @@
 			"mana_cost": "{U}",
 			"type": "Creature — Human Detective ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Doomed Journalist.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DDoomed Journalist.png"
 			}
 		},
 		{
@@ -2807,7 +2807,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/The Oneironaut's Handbook.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DThe Oneironaut's Handbook.png"
 			}
 		},
 		{
@@ -2816,7 +2816,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Ecstatic Zeal.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEcstatic Zeal.png"
 			}
 		},
 		{
@@ -2825,7 +2825,7 @@
 			"mana_cost": "{4}",
 			"type": "Artifact",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Incantations of the Nomon.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DIncantations of the Nomon.png"
 			}
 		},
 		{
@@ -2834,7 +2834,7 @@
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Nightmare Horror ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Shadow of Perdition.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DShadow of Perdition.png"
 			}
 		},
 		{
@@ -2843,7 +2843,7 @@
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental Rogue ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Everburning Fugitive.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DEverburning Fugitive.png"
 			}
 		},
 		{
@@ -2852,7 +2852,7 @@
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Pansomnolence.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DPansomnolence.png"
 			}
 		},
 		{
@@ -2861,7 +2861,7 @@
 			"mana_cost": "",
 			"type": "Token Creature — Nightmare Leviathan ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Nightmare Leviathan.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DNightmare Leviathan.png"
 			}
 		},
 		{
@@ -2870,7 +2870,7 @@
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Impending Ruin.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DImpending Ruin.png"
 			}
 		},
 		{
@@ -2879,174 +2879,183 @@
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Spectral Guidance.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DSpectral Guidance.png"
+			}
+		},
+		{
+			"name": "Human Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Citizen ",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5DHuman Citizen.png"
 			}
 		},
 		]
 	[RareSlot(1)]
-		24 Hybdora, ASPIRE Founder
-		24 Eshil, Discordant Voice
-		24 Tremorling
-		24 Cadis Yeln, IPC Chair
-		24 Chief Executive J. Irdol III
-		24 Palo, Speaker for the One
-		24 Peter Welles, Reawakened
-		24 Infested Wormlich
-		24 Bound Distortion
-		24 Black Circle Summoner
-		24 Sign of Discontent
-		24 Lamb of the One
-		24 Task Force Armorer
-		24 Bestower of Fate
-		24 Catastrophic Mistake
-		24 Memory of Ages Lost
-		24 Anointed Consecrator
-		24 Immortal Heir
-		24 Trace of the All-Dream
-		24 Worldtongue Heretic
-		24 Veilguard Elite
-		24 Expunge from Records
-		24 Yeln's Sanction
-		24 Facility Expansion
-		24 Missing Piece
-		24 Escaping Omnipath
-		24 Augmented Researcher
-		24 Aeon of Purpose
-		24 Phantasmal Overseer
-		24 Immortality Peddler
-		24 Experimental Treatment
-		24 Eternity's Plaything
-		24 Merciful End
-		24 Daydream Visitors
-		24 Solve et Coagula
-		24 Fevered Dreams
-		24 Dream-Borne Starfarer
-		24 Bucolic Innocence
-		24 Aeon of Meaning
-		24 Primordial Shepherd
-		24 Metamorphosis Chamber
-		24 Atrocity Site
-		24 Truthcleaver, Satu's Blade
-		24 Profound Revelation
-		24 Raving Aspirant
-		24 Romantic Vision
-		24 Utopian Vision
-		24 Bleak Vision
-		24 Cosmic Vision
-		24 Cancerous Vision
-		24 Perfecter of Form
-		24 Stalking Soulmate
-		24 Discordant Collective
-		24 Unmarked Helicopter
-		24 Mundophobia
-		24 Doomed Journalist
-		24 The Oneironaut's Handbook
-		24 Ecstatic Zeal
-		24 Everburning Fugitive
-		24 Impending Ruin
-		12 Indecisive Transmortal
-		12 The Archivist
-		12 IPC Zeitgeist
-		12 Unanimist Zeitgeist
-		12 Irdol Zeitgeist
-		12 Discordance Zeitgeist
-		12 ASPIRE Zeitgeist
-		12 Wormwood, Racketeer
-		12 Vand, the Breaking Dream
-		12 Enhanced Enforcer
-		12 Discordant Magus
-		12 Genius Loci
-		12 Satu Var, Hexkeeper
-		12 Mabil, Dreamscape Delver
-		12 Dysmorphosis Epidemic
-		12 Looming Presence
-		12 Oppressive Dreamwarden
-		12 Incantations of the Nomon
-		12 Shadow of Perdition
-		12 Pansomnolence
+	30 Hybdora, ASPIRE Founder
+		30 Eshil, Discordant Voice
+		30 Tremorling
+		30 Cadis Yeln, IPC Chair
+		30 Chief Executive J. Irdol III
+		30 Palo, Speaker for the One
+		30 Peter Welles, Reawakened
+		30 Infested Wormlich
+		30 Bound Distortion
+		30 Black Circle Summoner
+		30 Sign of Discontent
+		30 Lamb of the One
+		30 Task Force Armorer
+		30 Bestower of Fate
+		30 Catastrophic Mistake
+		30 Memory of Ages Lost
+		30 Anointed Consecrator
+		30 Immortal Heir
+		30 Trace of the All-Dream
+		30 Worldtongue Heretic
+		30 Veilguard Elite
+		30 Expunge from Records
+		30 Yeln's Sanction
+		30 Facility Expansion
+		30 Missing Piece
+		30 Escaping Omnipath
+		30 Augmented Researcher
+		30 Aeon of Purpose
+		30 Phantasmal Overseer
+		30 Immortality Peddler
+		30 Experimental Treatment
+		30 Eternity's Plaything
+		30 Merciful End
+		30 Daydream Visitors
+		30 Solve et Coagula
+		30 Fevered Dreams
+		30 Dream-Borne Starfarer
+		30 Bucolic Innocence
+		30 Aeon of Meaning
+		30 Primordial Shepherd
+		30 Metamorphosis Chamber
+		30 Atrocity Site
+		30 Truthcleaver, Satu's Blade
+		30 Profound Revelation
+		30 Raving Aspirant
+		30 Romantic Vision
+		30 Utopian Vision
+		30 Bleak Vision
+		30 Cosmic Vision
+		30 Cancerous Vision
+		30 Perfecter of Form
+		30 Stalking Soulmate
+		30 Discordant Collective
+		30 Unmarked Helicopter
+		30 Mundophobia
+		30 Doomed Journalist
+		30 The Oneironaut's Handbook
+		30 Ecstatic Zeal
+		30 Everburning Fugitive
+		30 Impending Ruin
+		15 Indecisive Transmortal
+		15 The Archivist
+		15 IPC Zeitgeist
+		15 Unanimist Zeitgeist
+		15 Irdol Zeitgeist
+		15 Discordance Zeitgeist
+		15 ASPIRE Zeitgeist
+		15 Wormwood, Racketeer
+		15 Vand, the Breaking Dream
+		15 Enhanced Enforcer
+		15 Discordant Magus
+		15 Genius Loci
+		15 Satu Var, Hexkeeper
+		15 Mabil, Dreamscape Delver
+		15 Dysmorphosis Carrier
+		15 Looming Presence
+		15 Oppressive Dreamwarden
+		15 Incantations of the Nomon
+		15 Shadow of Perdition
+		15 Pansomnolence
 		[UncommonSlot(3)]
-		50 Containment Operative
-		50 Oblivion Scavenger
-		50 Fervid Aspirant
-		50 Priest of Yl-Tesim
-		50 Runaway Noosynthesis
-		50 Dream-Lab Prototype
-		50 Profane Creation
-		50 Throne of Czendramahlix
-		50 Aeons' Emissary
-		50 Unanimist Conviction
-		50 Eschaton Fragment
-		50 Enlightened Wormlich
-		50 Reality Seizure
-		50 ASPIRE Copywriter
-		50 Unnerving Statue
-		50 Virulent Brainseeker
-		50 Maw of Hafnordrun
-		50 Gelatinous Birth
-		50 Impossible Abduction
-		50 Power Fantasy
-		50 Evangel of Unity
-		50 Rescue from the Brink
-		50 Callous Display
-		50 Crossroads Incursion
-		50 Prized Subject
-		50 Deepspawn Siren
-		50 ASPIRE Sponsor
-		50 Imperfect Revival
-		50 Satu's Lieutenant
-		50 Sin-Chained Souls
-		50 Self-Taught Exorcist
-		50 Notion of Judgment
-		50 Austere Dreamer
-		50 Veil of Ignorance
-		50 Shackle the Wind
-		50 Ingredient Smuggler
-		50 Favored Aspirant
-		50 Ancient Dreamweaver
-		50 Torpor Mage
-		50 Oneiric Scrutiny
-		50 Arcane Resonation
-		50 Malignosis Outbreak
-		50 Refulgent Bolt
-		50 Contemplative Dreamer
-		50 Reforge Occult Ties
-		50 Fanciful Dreamer
-		50 Invasive Paradigm
-		50 Agents of the Eschaton
-		50 Pineal Siphon
-		50 Vessel of Corruption
-		50 Consecrated Bus
-		50 Dangerous Idea
-		50 Hypnagogic Broadcast
-		50 Delve the Noosphere
-		50 Occult Prodigy
-		50 Fears Made Manifest
-		50 Notion of Malice
-		50 Psychic Trepanation
-		50 Notion of Doubt
-		50 Notion of Craving
-		50 Notion of Atavism
-		50 State of Paranoia
-		50 Dazzling Reverie
-		50 Feedlot Abomination
-		50 Incite Turmoil
-		50 Protest Zone
-		50 Might Channeler
-		50 Occult Fascination
-		50 Unleash Potential
-		50 Clairvoyance Tank
-		50 Laboratory Maniac
-		50 Trustworthy Colleague
-		50 Purebred Offering
-		50 Gaze of the Abyss
-		50 Lucid Crag
-		50 Lucid Creek
-		50 Lucid Grove
-		50 Lucid Marsh
-		50 Lucid Meadow
-		50 Inexplicable Entity
+	30 Containment Operative
+		30 Oblivion Scavenger
+		30 Fervid Aspirant
+		30 Priest of Yl-Tesim
+		30 Runaway Noosynthesis
+		30 Dream-Lab Prototype
+		30 Profane Creation
+		30 Throne of Czendramahlix
+		30 Aeons' Emissary
+		30 Unanimist Conviction
+		30 Eschaton Fragment
+		30 Enlightened Wormlich
+		30 Reality Seizure
+		30 ASPIRE Copywriter
+		30 Unnerving Statue
+		30 Virulent Brainseeker
+		30 Maw of Hafnordrun
+		30 Gelatinous Birth
+		30 Impossible Abduction
+		30 Power Fantasy
+		30 Evangel of Unity
+		30 Rescue from the Brink
+		30 Callous Display
+		30 Crossroads Incursion
+		30 Prized Subject
+		30 Deepspawn Siren
+		30 ASPIRE Sponsor
+		30 Imperfect Revival
+		30 Satu's Lieutenant
+		30 Sin-Chained Souls
+		30 Self-Taught Exorcist
+		30 Notion of Judgment
+		30 Austere Dreamer
+		30 Veil of Ignorance
+		30 Shackle the Wind
+		30 Ingredient Smuggler
+		30 Favored Aspirant
+		30 Ancient Dreamweaver
+		30 Torpor Mage
+		30 Oneiric Scrutiny
+		30 Arcane Resonation
+		30 Malignosis Outbreak
+		30 Refulgent Bolt
+		30 Contemplative Dreamer
+		30 Reforge Occult Ties
+		30 Fanciful Dreamer
+		30 Invasive Paradigm
+		30 Agents of the Eschaton
+		30 Pineal Siphon
+		30 Vessel of Corruption
+		30 Consecrated Bus
+		30 Dangerous Idea
+		30 Hypnagogic Broadcast
+		30 Delve the Noosphere
+		30 Occult Prodigy
+		30 Fears Made Manifest
+		30 Notion of Malice
+		30 Psychic Trepanation
+		30 Notion of Doubt
+		30 Notion of Craving
+		30 Notion of Atavism
+		30 State of Paranoia
+		30 Dazzling Reverie
+		30 Feedlot Abomination
+		30 Incite Turmoil
+		30 Protest Zone
+		30 Might Channeler
+		30 Occult Fascination
+		30 Unleash Potential
+		30 Clairvoyance Tank
+		30 Laboratory Maniac
+		30 Trustworthy Colleague
+		30 Purebred Offering
+		30 Gaze of the Abyss
+		30 Liminal Crag
+		30 Liminal Creek
+		30 Liminal Grove
+		30 Liminal Bog
+		30 Liminal Prairie
+		30 Inexplicable Entity
 		[CommonSlot(10)]
-		30 Wake Up
+	30 Wake Up
 		30 Amnestic Dose
 		30 Wayward Aspirant
 		30 Immemnon's Retriever
@@ -3132,7 +3141,7 @@
 		30 Archive Stalker
 		30 Ritual Dagger
 		30 Unearthly Membrane
-		30 Evolving Wilds
+		30 Oneiric Path
 		30 Glimpse of Magic
 		30 Escaped Subject
 		30 Absent Twins
@@ -3148,19 +3157,19 @@
 		30 Destructive Impulse
 		30 Spectral Guidance
 		[LandSlot(1)]
-		12 Rites of the All-Dream
-		12 Rites of the Holy Flesh
-		12 Rites of the Ever-Worm
-		12 Rites of the Eschaton
+	12 Rite of the All-Dream
+		12 Rite of the Holy Flesh
+		12 Rite of the Ever-Worm
+		12 Rite of the Eschaton
 		63 Open Your Mind
 		63 Breach the Veil
 		63 Pay in Blood
 		63 Burn Worldly Ties
 		63 Wander in Dream
-		12 Rites of the Ashen King
+		12 Rite of the Ashen King
 		24 Pray for Unity
 		24 Seek the Archive
-		24 Rites of the Angleworm
+		24 Rite of the Angleworm
 		24 Consecrate Flesh
 		24 Beseech the First Ones
 		24 Fateful Excavation
@@ -3174,3 +3183,4 @@
 		168 Swamp
 		168 Mountain
 		168 Forest
+		
