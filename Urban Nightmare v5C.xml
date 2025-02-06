@@ -59,10 +59,10 @@ Enchanted creature loses all abilities and is a colorless Human Citizen creature
         <cmc>3</cmc>
         <type>Creature - Nightmare Dog </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Immemnon’s Retriever enters, you may put target card from a graveyard on top of its owner’s library.</text>
+      <text>When Immemnon’s Retriever enters, exile up to one target card from a graveyard. Then if you own that card, put it on top of your library.</text>
     </card>
     <card>
       <name>Liminal Sentry</name>
@@ -130,8 +130,8 @@ Enchanted creature loses all abilities and is a colorless Human Citizen creature
         <pt>1/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Aberrant creature spells you cast cost {1} less to cast. (A creature is aberrant if its power and toughness aren’t equal.)
-Whenever another aberrant creature you control dies, draw a card.</text>
+      <text>Nightmare spells you cast cost {1} less to cast.
+Whenever another aberrant creature you control dies, draw a card. (A creature is aberrant if its power and toughness aren’t equal.)</text>
     </card>
     <card>
       <name>Fervid Aspirant</name>
@@ -175,7 +175,7 @@ Whenever Priest of Yl-Tesim attacks or blocks, if it’s aberrant, it gains mena
       </prop>
       <tablerow>3</tablerow>
       <text>Create an X/X blue Nightmare Leviathan creature token, where X is 1 plus the total number of noncreature, nonland cards you own in exile and in your graveyard.
-Reproduce 4UR (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4UR (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Dream-Lab Prototype</name>
@@ -392,7 +392,7 @@ Whenever Haunting Musician attacks, defending player loses 2 life.</text>
         <cmc>6</cmc>
         <type>Creature - Nightmare Eye </type>
         <maintype>Creature</maintype>
-        <pt>3/7</pt>
+        <pt>4/6</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance
@@ -520,23 +520,23 @@ Omen 1W (As you attack, you may exile this card from your hand face down under a
         <cmc>5</cmc>
         <type>Creature - Nightmare Spirit </type>
         <maintype>Creature</maintype>
-        <pt>4/5</pt>
+        <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Solemn Gatekeeper enters, you may return another permanent you control to its owner’s hand. If you return an enchantment this way, create a 1/1 white Spirit creature token with flying.</text>
+      <text>When Solemn Gatekeeper enters, you may return another permanent you control to its owner’s hand. If you do, create a 1/1 white Spirit creature token with flying.</text>
     </card>
     <card>
       <name>Faith in the One</name>
       <set rarity="common">NOT</set>
       <prop>
         <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature gets +2/+0 and gains your choice of first strike or lifelink. Scry 1.</text>
+      <text>Until end of turn, target creature gets +1/+0 and gains your choice of first strike or lifelink. Scry 1.</text>
     </card>
     <card>
       <name>Miraculous Ascension</name>
@@ -579,21 +579,21 @@ Omen {W} (As you attack, you may exile this card from your hand face down under 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink</text>
+      <text>Whenever an enchantment you control enters, target creature you control gets +2/+0 and gains lifelink until end of turn.</text>
     </card>
     <card>
-      <name>Rites of the All-Dream</name>
-      <set rarity="mythic" splitterPath="/Rites of the All-Dream.png" >NOT</set>
+      <name>Rite of the All-Dream</name>
+      <set rarity="mythic" splitterPath="/Rite of the All-Dream.png" >NOT</set>
       <prop>
         <colors>UG</colors>
         <manacost>3GU</manacost>
         <cmc>5</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-When Rites of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
 Pay GGGGG.
 I — Pay UUUUU.
 ---
@@ -615,24 +615,24 @@ I — Pay UUUUU.
 If you would draw a card, draw two cards instead.
 If you tap a permanent for mana, it produces twice as much of that mana instead.
 ---
-(Front): Rites of the All-Dream</text>
-      <related attach="transform">Rites of the All-Dream</related>
+(Front): Rite of the All-Dream</text>
+      <related attach="transform">Rite of the All-Dream</related>
     </card>
     <card>
-      <name>Rites of the Holy Flesh</name>
-      <set rarity="mythic" splitterPath="/Rites of the Holy Flesh.png" >NOT</set>
+      <name>Rite of the Holy Flesh</name>
+      <set rarity="mythic" splitterPath="/Rite of the Holy Flesh.png" >NOT</set>
       <prop>
         <colors>WR</colors>
         <manacost>3RW</manacost>
         <cmc>5</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-When Rites of the Holy Flesh enters, it deals 5 damage divided as you choose among any number of targets and you gain 5 life.
-I — Pay 3RW.
-II — Pay 10 life.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+When Rite of the Holy Flesh enters, distribute four +1/-1 counters among up to four target creatures. You gain 4 life.
+I — Tap two untapped creatures you control with equal power.
+II — Tap two untapped creatures you control with equal toughness.
 ---
 (Back): Yl-Tesim</text>
       <related attach="transform">Yl-Tesim</related>
@@ -648,26 +648,25 @@ II — Pay 10 life.
         <pt>3/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Double strike, lifelink
-When this permanent enters or transforms into Yl-Tesim, create Yl-Tesim’s Reflection, a 6/3 red and white Nightmare God Reflection creature token with flying and menace.
-Sacrifice a God: Exile Yl-Tesim. Return it to the battlefield transformed under its owner’s control at the beginning of the next end step.
+      <text>Double strike, lifelink, ward {2}
+When this permanent transforms into Yl-Tesim, for each creature you control, create a red and white Reflection creature token with power equal to that creature’s toughness and toughness equal to that creature’s power. Those tokens have haste.
 ---
-(Front): Rites of the Holy Flesh</text>
-      <related attach="transform">Rites of the Holy Flesh</related>
+(Front): Rite of the Holy Flesh</text>
+      <related attach="transform">Rite of the Holy Flesh</related>
     </card>
     <card>
-      <name>Rites of the Ever-Worm</name>
-      <set rarity="mythic" splitterPath="/Rites of the Ever-Worm.png" >NOT</set>
+      <name>Rite of the Ever-Worm</name>
+      <set rarity="mythic" splitterPath="/Rite of the Ever-Worm.png" >NOT</set>
       <prop>
         <colors>BG</colors>
         <manacost>3BG</manacost>
         <cmc>5</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-When Rites of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+When Rite of the Ever-Worm enters, return any number of target creature cards with total mana value 7 or less from your graveyard to the battlefield.
 I — Tap five untapped creatures you control.
 II — Sacrifice three creatures.
 ---
@@ -688,23 +687,23 @@ II — Sacrifice three creatures.
       <text>Trample, lifelink
 Whenever a creature you control dies, return target card from your graveyard to your hand.
 ---
-(Front): Rites of the Ever-Worm</text>
-      <related attach="transform">Rites of the Ever-Worm</related>
+(Front): Rite of the Ever-Worm</text>
+      <related attach="transform">Rite of the Ever-Worm</related>
     </card>
     <card>
-      <name>Rites of the Eschaton</name>
-      <set rarity="mythic" splitterPath="/Rites of the Eschaton.png" >NOT</set>
+      <name>Rite of the Eschaton</name>
+      <set rarity="mythic" splitterPath="/Rite of the Eschaton.png" >NOT</set>
       <prop>
         <colors>UR</colors>
         <manacost>3UR</manacost>
         <cmc>5</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-When Rites of the Eschaton enters, discard any number of cards, then draw X cards and create X Treasure tokens, where X is that number plus one.
-I — Discard five cards.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+When Rite of the Eschaton enters, if you have fewer than seven cards in hand, draw cards equal to the difference.
+I — Discard your hand.
 II — Exile ten cards from your graveyard.
 ---
 (Back): Atziloteph</text>
@@ -722,10 +721,11 @@ II — Exile ten cards from your graveyard.
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, hexproof from instants
-Whenever you cast an instant or sorcery spell, you may copy that spell. If you’ve cast ten or more spells this turn, instead copy that spell up to ten times. You may choose new targets for the copies.
+You may look at the top card of your library any time.
+You may play the top card of your library. Whenever you cast a spell this way, create a Treasure token for each spell you’ve cast this way this turn.
 ---
-(Front): Rites of the Eschaton</text>
-      <related attach="transform">Rites of the Eschaton</related>
+(Front): Rite of the Eschaton</text>
+      <related attach="transform">Rite of the Eschaton</related>
     </card>
     <card>
       <name>Somnolent Snare</name>
@@ -739,7 +739,7 @@ Whenever you cast an instant or sorcery spell, you may copy that spell. If you�
       </prop>
       <tablerow>3</tablerow>
       <text>Tap up to two target creatures. Put a stun counter on each of them.
-Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Display of Talent</name>
@@ -753,7 +753,7 @@ Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduc
       </prop>
       <tablerow>3</tablerow>
       <text>Display of Talent deals 1 damage to each of up to two target creatures. Those creatures can’t block this turn.
-Reproduce 4R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4R (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Embrace Death</name>
@@ -836,7 +836,7 @@ Enchanted creature has mutable. (It’s dealt damage in the form of +1/-1 counte
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an aberrant creature you control attacks, you gain 1 life. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+      <text>Whenever an aberrant creature you control attacks or blocks, you gain 1 life. (A creature is aberrant if its power and toughness aren’t equal.)</text>
     </card>
     <card>
       <name>Conjured Servitor</name>
@@ -980,7 +980,7 @@ Draw a card.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Counter target spell. Scry 1.
+      <text>Counter target spell. Draw a card, then discard a card.
 Omen 1U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 1U after the creature is gone.)</text>
     </card>
     <card>
@@ -1052,7 +1052,7 @@ Whenever you cast a noncreature spell, scry 1. (Unless you sacrificed this to ca
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Midnight Apparition enters, exile up to one target card from a graveyard.</text>
+When Midnight Apparition enters, exile up to two target cards from a single graveyard. For each creature card exiled this way, its owner loses 1 life.</text>
     </card>
     <card>
       <name>Doomed Dreamer</name>
@@ -1095,7 +1095,7 @@ When enchanted creature dies, return that card to the battlefield under your con
       </prop>
       <tablerow>3</tablerow>
       <text>Target opponent loses 2 life unless they discard a card. You gain 2 life and draw a card.
-Reproduce 4B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4B (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Veteran Hemomancer</name>
@@ -1231,8 +1231,8 @@ Omen {R} (As you attack, you may exile this card from your hand face down under 
         <colors>R</colors>
         <manacost>2R</manacost>
         <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose one—
@@ -1244,13 +1244,13 @@ Omen {R} (As you attack, you may exile this card from your hand face down under 
       <set rarity="common">NOT</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
         <type>Instant</type>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature gets +3/+0 and gains your choice of first strike or menace. Scry 1.</text>
+      <text>Until end of turn, target creature gets +3/+0 and gains your choice of first strike or menace.</text>
     </card>
     <card>
       <name>Tempting Discovery</name>
@@ -1351,7 +1351,7 @@ Whenever Echo of Wildfire attacks, it deals damage equal to its power to defendi
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 5/4 green Nightmare Wurm creature token with ward {2}.
-Reproduce 8G (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 8G (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Forsaken Sidhe</name>
@@ -1496,7 +1496,7 @@ Enchanted creature gets +2/+1 and can’t be blocked by more than one creature.<
       </prop>
       <tablerow>2</tablerow>
       <text>When Heiress to Ancient Rites enters, return target creature or enchantment card from your graveyard to your hand.
-If Heiress to Ancient Rites would die, exile it instead.</text>
+If Heiress to Ancient Rites would die, put it on the bottom of its owner’s library instead.</text>
     </card>
     <card>
       <name>Archive Stalker</name>
@@ -1510,8 +1510,8 @@ If Heiress to Ancient Rites would die, exile it instead.</text>
         <pt>4/7</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
-{3}: Archive Stalker gains trample until end of turn.</text>
+      <text>Trample
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
     </card>
     <card>
       <name>Ritual Dagger</name>
@@ -1543,17 +1543,17 @@ Equip {3}</text>
 Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
     </card>
     <card>
-      <name>Evolving Wilds</name>
+      <name>Oneiric Path</name>
       <set rarity="common">NOT</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Land</type>
+        <type>Enchantment Land</type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+      <text>Sacrifice Oneiric Path: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
     </card>
     <card>
       <name>Eschaton Fragment</name>
@@ -1674,14 +1674,13 @@ Whenever another creature you control dies, it deals damage equal to its power t
         <colors>U</colors>
         <manacost>3U</manacost>
         <cmc>4</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Open Your Mind enters, draw two cards.
 I, II, III — Discard a card.
-Discard a card.
 ---
 (Back): Ego Parasite</text>
       <related attach="transform">Ego Parasite</related>
@@ -1710,11 +1709,11 @@ Whenever Ego Parasite deals combat damage to a player, you may exile two cards f
         <colors>W</colors>
         <manacost>W</manacost>
         <cmc>1</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Breach the Veil enters, create a 1/1 white Spirit creature token with flying.
 Tap three untapped creatures you control.
 I — Sacrifice any number of creatures with total power 3 or greater.
@@ -1746,11 +1745,11 @@ I — Sacrifice any number of creatures with total power 3 or greater.
         <colors>B</colors>
         <manacost>1B</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Pay in Blood enters, each opponent sacrifices a creature.
 I — Sacrifice a creature.
 II — Exile three creature cards from your graveyard.
@@ -1782,11 +1781,11 @@ At the beginning of each combat, any opponent may sacrifice a creature. If a pla
         <colors>R</colors>
         <manacost>1R</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 I — When Burn Worldly Ties enters, create a Treasure token and a 1/1 red Human Rogue creature token.
 Sacrifice two permanents.
 II — Pay 3RRR.
@@ -1818,11 +1817,11 @@ Whenever Pyre-Born Magus attacks, you may sacrifice a permanent. If you do, Pyre
         <colors>G</colors>
         <manacost>2G</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Wander in Dream enters, mill four cards. Put a creature, enchantment, or land card from among the milled cards into your hand.
 I — Sacrifice a creature.
 II — Sacrifice an enchantment.
@@ -1857,7 +1856,7 @@ II — Sacrifice an enchantment.
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mill five cards. You may put a noncreature, nonland card from among the milled cards into your hand.</text>
+      <text>Mill four cards. You may put a noncreature card from among the milled cards into your hand.</text>
     </card>
     <card>
       <name>Reality Seizure</name>
@@ -1940,15 +1939,15 @@ Spells your opponents cast cost {1} more to cast if they share a color with a ca
       <set rarity="rare">NOT</set>
       <prop>
         <colors>WG</colors>
-        <manacost>1GW</manacost>
-        <cmc>3</cmc>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
         <type>Legendary Creature - Human Cleric </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Creatures you control have “{T}: Add one mana of any color. Spend this mana only to cast enchantment spells.”
-Whenever an enchantment you control enters, draw a card, then you may discard a card. If you do, create a 1/1 white Human Cleric creature token with lifelink.</text>
+Whenever an enchantment you control enters, untap target creature you control. It gets +1/+1 until end of turn.</text>
     </card>
     <card>
       <name>Unnerving Statue</name>
@@ -1965,20 +1964,19 @@ Whenever an enchantment you control enters, draw a card, then you may discard a 
 {3}: Unnerving Statue becomes a 5/3 Construct artifact creature with menace until end of turn. Activate only if you control no creatures.</text>
     </card>
     <card>
-      <name>Rites of the Ashen King</name>
-      <set rarity="mythic" splitterPath="/Rites of the Ashen King.png" >NOT</set>
+      <name>Rite of the Ashen King</name>
+      <set rarity="mythic" splitterPath="/Rite of the Ashen King.png" >NOT</set>
       <prop>
         <colors>WB</colors>
         <manacost>3WB</manacost>
         <cmc>5</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-When Rites of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
 I, II, III — Exile five creature cards from a single graveyard.
-Exile five creature cards from a single graveyard.
 ---
 (Back): Czendramahlix</text>
       <related attach="transform">Czendramahlix</related>
@@ -1998,8 +1996,8 @@ Exile five creature cards from a single graveyard.
 When this permanent transforms into Czendramahlix, create ten 0/1 black Thrull creature tokens.
 You may cast cards exiled with this permanent by sacrificing a creature in addition to paying their other costs.
 ---
-(Front): Rites of the Ashen King</text>
-      <related attach="transform">Rites of the Ashen King</related>
+(Front): Rite of the Ashen King</text>
+      <related attach="transform">Rite of the Ashen King</related>
     </card>
     <card>
       <name>Virulent Brainseeker</name>
@@ -2043,7 +2041,7 @@ Maw of Hafnordrun must be blocked if able and can’t be blocked by more than on
       </prop>
       <tablerow>3</tablerow>
       <text>Create an X/X green Ooze Shapeshifter creature token with trample.
-Reproduce XGGG (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate XGGG (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Escaped Subject</name>
@@ -2113,7 +2111,7 @@ Reproduce XGGG (You may cast this from your graveyard for its reproduce cost red
         <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>1R: Implacable Revenant gets +2/+0 until end of turn.
+      <text>1R: Implacable Revenant gets +3/+0 until end of turn. Activate only once each turn.
 When Implacable Revenant dies, it deals damage equal to its power to target opponent.</text>
     </card>
     <card>
@@ -2229,7 +2227,7 @@ Omen 2W (As you attack, you may exile this card from your hand face down under a
       </prop>
       <tablerow>3</tablerow>
       <text>Return a nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
-Reproduce 3W (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 3W (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Callous Display</name>
@@ -2316,7 +2314,7 @@ When ASPIRE Sponsor dies, you may put its +1/-1 counters on target creature.</te
       </prop>
       <tablerow>3</tablerow>
       <text>Return target creature card from your graveyard to the battlefield with an additional +1/-1 counter on it.
-Reproduce 8B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 8B (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Satu&apos;s Lieutenant</name>
@@ -2404,7 +2402,7 @@ Flying, vigilance</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Veil of Ignorance enters, create two 1/1 white Human Soldier creature tokens.
+      <text>When Veil of Ignorance enters, create two 1/1 colorless Human Citizen creature tokens.
 Non-aberrant creatures you control have ward {1} and can’t be blocked by aberrant creatures. (A creature is aberrant if its power and toughness aren’t equal.)</text>
     </card>
     <card>
@@ -2433,14 +2431,13 @@ Non-aberrant creatures you control have ward {1} and can’t be blocked by aberr
         <colors>W</colors>
         <manacost>1W</manacost>
         <cmc>2</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Pray for Unity enters, create two 1/1 white Human Cleric creature tokens with lifelink.
 I, II — Tap seven untapped creatures you control.
-Tap five untapped creatures you control.
 ---
 (Back): Revelation of the One</text>
       <related attach="transform">Revelation of the One</related>
@@ -2475,7 +2472,7 @@ Revelation of the One’s power and toughness are each equal to the number of cr
       </prop>
       <tablerow>3</tablerow>
       <text>Create a 2/1 blue Elemental Spirit creature token with flying. If you’ve cast another noncreature spell this turn, draw a card.
-Reproduce 3U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 3U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Ingredient Smuggler</name>
@@ -2516,7 +2513,7 @@ Whenever Favored Aspirant attacks, if it’s aberrant, it gains double strike un
         <cmc>5</cmc>
         <type>Creature - Nightmare Spider </type>
         <maintype>Creature</maintype>
-        <pt>2/5</pt>
+        <pt>3/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Vigilance, reach
@@ -2715,11 +2712,11 @@ Whenever you cast a spell, if it was an omen, draw a card. If you’ve spent WUB
         <colors>U</colors>
         <manacost>2U</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Seek the Archive enters, search your library for a noncreature, nonland card, reveal it, put it into your hand, then shuffle.
 Exile an artifact card and an enchantment card from your graveyard.
 I — Exile an instant card and a sorcery card from your graveyard.
@@ -2791,11 +2788,11 @@ UR: Until end of turn, you may cast instant and sorcery spells from your graveya
       <set rarity="mythic">NOT</set>
       <prop>
         <colors>WU</colors>
-        <manacost>2WU</manacost>
-        <cmc>4</cmc>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
         <type>Creature - Nightmare Avatar </type>
         <maintype>Creature</maintype>
-        <pt>4/4</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>As IPC Zeitgeist enters, choose Safety, Control, or Preservation.
@@ -2867,15 +2864,15 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
       <set rarity="mythic">NOT</set>
       <prop>
         <colors>WG</colors>
-        <manacost>GW</manacost>
-        <cmc>2</cmc>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
         <type>Creature - Nightmare Avatar </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>As Unanimist Zeitgeist enters, choose Orthodox, Reformist, or Evangelist.
-• Orthodox—Unanimist Zeitgeist gets +1/+1 for each other creature you control and has vigilance.
+• Orthodox—Unanimist Zeitgeist gets +1/+1 for each other creature you control and has trample.
 • Reformist—Other creatures you control get +1/+1.
 • Evangelist—Whenever you cast a creature spell, create a 1/1 white Human Cleric creature token with lifelink.</text>
     </card>
@@ -2892,9 +2889,9 @@ Whenever an aberrant creature you control attacks, create a 1/1 black and green 
       </prop>
       <tablerow>2</tablerow>
       <text>As Irdol Zeitgeist enters, choose Research, Production, or Marketing.
-• Research—Once each turn, when Irdol Zeitgeist or another card or token is put into your graveyard from anywhere, you may draw a card.
-• Production—Spells you cast cost {1} less to cast.
-• Marketing—{T}, Exile X cards from your graveyard: Exchange control of two target creatures with mana value X. Activate only as a sorcery.</text>
+• Research—{T}: Draw two cards, then discard two cards unless you discard a Nightmare card.
+• Production—{T}, Pay 2 life: Add CC.
+• Marketing—{T}, Exile X cards from your graveyard: Exchange control of two target creatures with mana value X or less. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Discordance Zeitgeist</name>
@@ -3106,7 +3103,7 @@ Deathtouch, menace</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose a nonland card name. Target player reveals their hand. That player discards a card with that name. If they can’t, you draw a card.
-Reproduce 3B (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 3B (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Memory of Ages Lost</name>
@@ -3204,7 +3201,7 @@ Trample</text>
         <cmc>5</cmc>
         <type>Creature - Nightmare Chimera </type>
         <maintype>Creature</maintype>
-        <pt>5/2</pt>
+        <pt>5/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Feedlot Abomination or another aberrant creature you control dies, if it attacked this turn, draw a card. (A creature is aberrant if its power and toughness aren’t equal.)</text>
@@ -3221,7 +3218,7 @@ Trample</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Create two 1/1 red Human Rogue creature tokens. Until end of turn, creatures you control get +1/+0 and gain haste.
-Reproduce 7R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 7R (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Protest Zone</name>
@@ -3554,14 +3551,14 @@ Omen 2R (As you attack, you may exile this card from your hand face down under a
       <set rarity="rare">NOT</set>
       <prop>
         <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>You may sacrifice a permanent. Reveal cards from the top of your library until you reveal a card that shares a card type with a permanent you sacrificed this turn. Put that card onto the battlefield, then shuffle the rest into your library.
-Reproduce 6R (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+      <text>Exile cards from the top of your library until you exile a creature card. You may cast that card, and you may pay {0} rather than pay its mana cost if this spell’s recreate cost was paid.
+Recreate 6R (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Fevered Dreams</name>
@@ -3701,14 +3698,14 @@ Equip {2}</text>
       <set rarity="rare">NOT</set>
       <prop>
         <colors>U</colors>
-        <manacost>7U</manacost>
-        <cmc>8</cmc>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
       <text>Choose card type, color, or mana value. Draw a card for each different quality of the chosen kind among cards you own in your graveyard and in exile.
-Reproduce 7U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 7U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Raving Aspirant</name>
@@ -3806,20 +3803,19 @@ Put a creature or planeswalker card from a graveyard onto the battlefield under 
 {0}: Until end of turn, Perfecter of Form loses mutable and gains hexproof and indestructible. Activate only if Perfecter of Form isn’t aberrant. (A creature is aberrant if its power and toughness aren’t equal.)</text>
     </card>
     <card>
-      <name>Rites of the Angleworm</name>
-      <set rarity="rare" splitterPath="/Rites of the Angleworm.png" >NOT</set>
+      <name>Rite of the Angleworm</name>
+      <set rarity="rare" splitterPath="/Rite of the Angleworm.png" >NOT</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
-I — Once each turn, when Rites of the Angleworm enters or you sacrifice a creature, you may draw a card.
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
+I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
 II, III — Sacrifice two creatures.
-Sacrifice two creatures.
 ---
 (Back): Demonic Betrayer</text>
       <related attach="transform">Demonic Betrayer</related>
@@ -3838,8 +3834,8 @@ Sacrifice two creatures.
       <text>When this permanent transforms into Demonic Betrayer, target opponent gains control of it. If they do, they sacrifice two other creatures, discard two cards, and lose 4 life.
 Ward—Pay 4 life.
 ---
-(Front): Rites of the Angleworm</text>
-      <related attach="transform">Rites of the Angleworm</related>
+(Front): Rite of the Angleworm</text>
+      <related attach="transform">Rite of the Angleworm</related>
     </card>
     <card>
       <name>Consecrate Flesh</name>
@@ -3848,14 +3844,13 @@ Ward—Pay 4 life.
         <colors>R</colors>
         <manacost>3R</manacost>
         <cmc>4</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Consecrate Flesh enters, discard up to three cards, then draw that many cards. Add RRR.
 I, II — Put three +1/-1 counters on a creature you control.
-Put three +1/-1 counters on a creature you control.
 ---
 (Back): Glestra, Reformed Aspirant</text>
       <related attach="transform">Glestra, Reformed Aspirant</related>
@@ -3884,13 +3879,13 @@ When this permanent transforms into Glestra, choose a number between 0 and the g
         <colors>G</colors>
         <manacost>G</manacost>
         <cmc>1</cmc>
-        <type>Enchantment - Ritual </type>
+        <type>Enchantment - Rite </type>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
-Whenever Beseech the First Ones enters or you fulfill one of its rites, you gain 5 life.
+Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
 Sacrifice any number of creatures with total power exactly 7.
 I — Exile six cards with different mana values from your graveyard.
 Pay WUBRG.
@@ -3957,12 +3952,12 @@ Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeepe
         <cmc>4</cmc>
         <type>Legendary Planeswalker - Mabil </type>
         <maintype>Planeswalker</maintype>
-      <loyalty>3</loyalty>
+      <loyalty>4</loyalty>
       </prop>
       <tablerow>1</tablerow>
       <text>[+1]: Mill two cards, then return a land card or a multicolored permanent card from your graveyard to your hand.
 [-1]: Pay any amount of mana. Draw a card for each color of mana spent this way.
-[-4]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and “T: Add WUBRG.”</text>
+[-6]: Create a tapped colorless legendary land token named Heart of the Noosphere with hexproof and “T: Add WUBRG.”</text>
     </card>
     <card>
       <name>Occult Fascination</name>
@@ -3984,11 +3979,11 @@ Until your next turn, you may cast up to one card exiled with Satu Var, Hexkeepe
         <colors></colors>
         <manacost>2</manacost>
         <cmc>2</cmc>
-        <type>Artifact Enchantment - Ritual </type>
+        <type>Artifact Enchantment - Rite </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Fateful Excavation enters and at the beginning of your upkeep, mill a card.
 I — Exile four land cards from your graveyard.
 II — Exile four nonland cards from your graveyard.
@@ -4025,7 +4020,7 @@ When this permanent transforms into Stirring Titan, all other nonland permanents
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant land
-When Dreamwild Intrusion enters, mill two cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand.
+When Dreamwild Intrusion enters, mill three cards. You may discard a card. If you do, put a permanent card from among the milled cards into your hand.
 Enchanted land has “{T}: Add two mana of any one color.”</text>
     </card>
     <card>
@@ -4040,7 +4035,7 @@ Enchanted land has “{T}: Add two mana of any one color.”</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Unleash Potential deals X damage to any target.
-Reproduce XRR (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate XRR (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Clairvoyance Tank</name>
@@ -4062,11 +4057,11 @@ Reproduce XRR (You may cast this from your graveyard for its reproduce cost redu
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Enchantment Land - Ritual </type>
+        <type>Enchantment Land - Rite </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 I, II — Hexproof
 Through Eerie Woods enters tapped.
 {T}: Add {G}.
@@ -4098,11 +4093,11 @@ Whenever a permanent you control becomes the target of a spell, you may draw a c
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Enchantment Land - Ritual </type>
+        <type>Enchantment Land - Rite </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 On Empty Streets enters tapped.
 {T}: Add {W}.
@@ -4134,11 +4129,11 @@ Whenever a nontoken creature you control leaves the battlefield, create a token 
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Enchantment Land - Ritual </type>
+        <type>Enchantment Land - Rite </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 Up Cryptic Spires enters tapped.
 {T}: Add {R}.
@@ -4169,11 +4164,11 @@ I, II — Pay 2RR.
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Enchantment Land - Ritual </type>
+        <type>Enchantment Land - Rite </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 Down Twisted Corridors enters tapped.
 {T}: Add {B}.
@@ -4209,7 +4204,7 @@ I, II — Pay 1BB.
       </prop>
       <tablerow>3</tablerow>
       <text>Until end of turn, creatures you control get +1/+0 and gain vigilance and “Prevent all damage that would be dealt to this creature.”
-Reproduce 4W (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4W (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Past Distant Thresholds</name>
@@ -4218,11 +4213,11 @@ Reproduce 4W (You may cast this from your graveyard for its reproduce cost reduc
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Enchantment Land - Ritual </type>
+        <type>Enchantment Land - Rite </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>(After your draw step, you may fulfill a rite. Transform when all rites are fulfilled.)
+      <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 Past Distant Thresholds enters tapped.
 {T}: Add {U}.
@@ -4304,7 +4299,7 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
       <text>When Gaze of the Abyss enters or dies, you may have target creature’s base toughness become equal to Gaze of the Abyss’s toughness until end of turn.</text>
     </card>
     <card>
-      <name>Lucid Crag</name>
+      <name>Liminal Crag</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors></colors>
@@ -4314,13 +4309,13 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lucid Crag enters tapped.
+      <text>Liminal Crag enters tapped.
 {T}: Add {R}.
 {1}, {T}: Add one mana of any color.
-{2}, {T}, Sacrifice Lucid Crag: Draw a card.</text>
+{2}, {T}, Sacrifice Liminal Crag: Draw a card.</text>
     </card>
     <card>
-      <name>Lucid Creek</name>
+      <name>Liminal Creek</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors></colors>
@@ -4330,13 +4325,13 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lucid Creek enters tapped.
+      <text>Liminal Creek enters tapped.
 {T}: Add {U}.
 {1}, {T}: Add one mana of any color.
-{2}, {T}, Sacrifice Lucid Creek: Draw a card.</text>
+{2}, {T}, Sacrifice Liminal Creek: Draw a card.</text>
     </card>
     <card>
-      <name>Lucid Grove</name>
+      <name>Liminal Grove</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors></colors>
@@ -4346,13 +4341,13 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lucid Grove enters tapped.
+      <text>Liminal Grove enters tapped.
 {T}: Add {G}.
 {1}, {T}: Add one mana of any color.
-{2}, {T}, Sacrifice Lucid Grove: Draw a card.</text>
+{2}, {T}, Sacrifice Liminal Grove: Draw a card.</text>
     </card>
     <card>
-      <name>Lucid Marsh</name>
+      <name>Liminal Bog</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors></colors>
@@ -4362,13 +4357,13 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lucid Marsh enters tapped.
+      <text>Liminal Bog enters tapped.
 {T}: Add {B}.
 {1}, {T}: Add one mana of any color.
-{2}, {T}, Sacrifice Lucid Marsh: Draw a card.</text>
+{2}, {T}, Sacrifice Liminal Bog: Draw a card.</text>
     </card>
     <card>
-      <name>Lucid Meadow</name>
+      <name>Liminal Prairie</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors></colors>
@@ -4378,10 +4373,10 @@ When Purebred Offering dies, look at the top seven cards of your library. You ma
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
-      <text>Lucid Meadow enters tapped.
+      <text>Liminal Prairie enters tapped.
 {T}: Add {W}.
 {1}, {T}: Add one mana of any color.
-{2}, {T}, Sacrifice Lucid Meadow: Draw a card.</text>
+{2}, {T}, Sacrifice Liminal Prairie: Draw a card.</text>
     </card>
     <card>
       <name>Inexplicable Entity</name>
@@ -4446,17 +4441,18 @@ Whenever Unmarked Helicopter or another nonland permanent you control enters dur
 Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
-      <name>Dysmorphosis Epidemic</name>
+      <name>Dysmorphosis Carrier</name>
       <set rarity="mythic">NOT</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
         <cmc>3</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
+        <type>Creature - Human Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
       </prop>
-      <tablerow>1</tablerow>
-      <text>Whenever a non-aberrant creature you control becomes aberrant, you may sacrifice it. When you do, Dysmorphosis Epidemic deals damage to any target equal to that creature’s power or its toughness, whichever is greater. (A creature is aberrant if its power and toughness aren’t equal.)</text>
+      <tablerow>2</tablerow>
+      <text>Whenever a non-aberrant creature you control becomes aberrant, you may sacrifice it. When you do, that creature deals damage to any target equal to its power or its toughness, whichever is greater. (A creature is aberrant if its power and toughness aren’t equal.)</text>
     </card>
     <card>
       <name>Mundophobia</name>
@@ -4484,7 +4480,7 @@ Whenever a permanent enchanted player controls becomes tapped, that player loses
         <pt>10/10</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as Looming Presence is untapped or attacking, other spells, permanents, and cards that aren’t on the battlefield treat it as though it didn’t exist. (Even when it enters.)</text>
+      <text>As long as Looming Presence is untapped or attacking, other spells, permanents, and cards that aren’t on the battlefield treat it as though it doesn’t exist. (Even when it enters.)</text>
     </card>
     <card>
       <name>Oppressive Dreamwarden</name>
@@ -4624,7 +4620,7 @@ Sacrifice Pansomnolence: Untap all permanents you control.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>Draw two cards, then discard a card.
-Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+Recreate 4U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
 
     <!-->Tokens</-->
@@ -4690,7 +4686,7 @@ Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduc
       <token>1</token>
       <reverse-related>Ingredient Smuggler</reverse-related>
       <reverse-related>Burn Worldly Ties</reverse-related>
-      <reverse-related>Rites of the Eschaton</reverse-related>
+      <reverse-related>Atziloteph</reverse-related>
       <reverse-related>Chief Executive J Irdol III</reverse-related>
     </card>
     <card>
@@ -4707,7 +4703,6 @@ Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduc
       <token>1</token>
       <reverse-related>Banishment Squad</reverse-related>
       <reverse-related>Facility Expansion</reverse-related>
-      <reverse-related count="2">Veil of Ignorance</reverse-related>
       <reverse-related>Containment Squad</reverse-related>
       <reverse-related>Hunted Aspirant</reverse-related>
       <reverse-related>Hunted Monstrosity</reverse-related>
@@ -4739,7 +4734,6 @@ Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduc
       <text>Lifelink</text>
       <token>1</token>
       <reverse-related count="2">Pray for Unity</reverse-related>
-      <reverse-related>Palo, Speaker for the One</reverse-related>
       <reverse-related>Unanimist Zeitgeist</reverse-related>
     </card>
     <card>
@@ -4816,17 +4810,16 @@ Reproduce 4U (You may cast this from your graveyard for its reproduce cost reduc
       <reverse-related>Infested Wormlich</reverse-related>
     </card>
     <card>
-      <name>Yl-Tesim&apos;s Reflection NOT</name>
+      <name>Reflection NOT</name>
       <set>NOT</set>
       <prop>
         <colors>WR</colors>
-        <type>Token Creature</type>
+        <type>Token Creature - Reflection </type>
         <maintype>Creature</maintype>
-        <pt>6/3</pt>
+        <pt>*/*</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Yl-Tesim’s Reflection is a Nightmare God Reflection.
-Flying, menace</text>
+      <text>Haste</text>
       <token>1</token>
       <reverse-related>Yl-Tesim</reverse-related>
     </card>
@@ -4884,6 +4877,20 @@ Flying, menace</text>
       <text></text>
       <token>1</token>
       <reverse-related>Runaway Noosynthesis</reverse-related>
+    </card>
+    <card>
+      <name>Human Citizen NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Veil of Ignorance</reverse-related>
     </card>
 
   </cards>
