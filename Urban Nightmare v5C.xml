@@ -116,7 +116,7 @@ Enchanted creature loses all abilities and is a colorless Human Citizen creature
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Once during each of your turns, when a card is put into exile, you draw a card and gain 1 life.</text>
+      <text>Once during each of your turns, when a card is put into exile, you gain 1 life and draw a card.</text>
     </card>
     <card>
       <name>Oblivion Scavenger</name>
@@ -230,10 +230,11 @@ When Dream-Lab Prototype dies, you may exile it. If you do, return target creatu
         <cmc>4</cmc>
         <type>Creature - Nightmare Insect </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Aeons’ Emissary enters or attacks, mill two cards, then return a land card from your graveyard to the battlefield tapped.</text>
+      <text>You may play lands from your graveyard.
+5GU: Choose target nontoken creature you control that doesn’t have the same name as a token you control. Create a token that’s a copy of it. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Unanimist Conviction</name>
@@ -1496,7 +1497,7 @@ Enchanted creature gets +2/+1 and can’t be blocked by more than one creature.<
       </prop>
       <tablerow>2</tablerow>
       <text>When Heiress to Ancient Rites enters, return target creature or enchantment card from your graveyard to your hand.
-If Heiress to Ancient Rites would die, put it on the bottom of its owner’s library instead.</text>
+When Heiress to Ancient Rites dies, put it on the bottom of its owner’s library.</text>
     </card>
     <card>
       <name>Archive Stalker</name>
@@ -1680,7 +1681,7 @@ Whenever another creature you control dies, it deals damage equal to its power t
       <tablerow>1</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Open Your Mind enters, draw two cards.
-I, II, III — Discard a card.
+I, II — Discard a card.
 ---
 (Back): Ego Parasite</text>
       <related attach="transform">Ego Parasite</related>
@@ -1805,7 +1806,7 @@ II — Pay 3RRR.
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever Pyre-Born Magus attacks, you may sacrifice a permanent. If you do, Pyre-Born Magus gets +2/+0 and gains trample until end of turn.
+Whenever Pyre-Born Magus attacks, you may sacrifice another permanent. If you do, Pyre-Born Magus gets +2/+0 and gains trample until end of turn.
 ---
 (Front): Burn Worldly Ties</text>
       <related attach="transform">Burn Worldly Ties</related>
@@ -2069,7 +2070,7 @@ Recreate XGGG (You may cast this from your graveyard for its recreate cost reduc
         <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Absent Twins enters or dies, mill two cards.</text>
+      <text>When Absent Twins enters or dies, you gain 1 life and mill two cards.</text>
     </card>
     <card>
       <name>Feral Monstrosity</name>
@@ -2198,7 +2199,7 @@ Omen 3W (As you attack, you may exile this card from your hand face down under a
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Untap target creature. It gets +1/+0 and gains flying, double strike, hexproof, and lifelink until end of turn. Prevent all damage that would be dealt to it this turn.
+      <text>Untap target creature. It gets +1/+0 and gains double strike, hexproof, and lifelink until end of turn. Prevent all damage that would be dealt to it this turn.
 Omen 2W (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 2W after the creature is gone.)</text>
     </card>
     <card>
@@ -2766,7 +2767,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Scry 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and you lose 2 life.</text>
+      <text>Scry 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and lose 2 life.</text>
     </card>
     <card>
       <name>Peter Welles, Reawakened</name>
@@ -2841,7 +2842,7 @@ UR: Until end of turn, you may cast instant and sorcery spells from your graveya
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever you sacrifice another permanent, choose one—
-• You draw a card and you lose 2 life.
+• You draw a card and lose 2 life.
 • Each opponent loses 1 life and you gain 1 life.</text>
     </card>
     <card>
@@ -3190,7 +3191,7 @@ Trample</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Mill X cards, then counter target spell unless its controller pays {1} for each card you own in your graveyard and in exile.</text>
+      <text>Mill X cards, then counter target spell unless its controller pays {1} for each card you own in exile and in your graveyard.</text>
     </card>
     <card>
       <name>Feedlot Abomination</name>
@@ -3675,7 +3676,7 @@ All creatures able to block Genius Loci do so.</text>
       </prop>
       <tablerow>0</tablerow>
       <text>{T}: Add {C}.
-{T}: Add one mana of any color among creature cards you own in your graveyard and in exile.
+{T}: Add one mana of any color among creature cards you own in exile and in your graveyard.
 {5}, {T}, Exile a creature card from your graveyard: Create a tapped 1/1 white Spirit creature token with flying.</text>
     </card>
     <card>
@@ -3704,7 +3705,7 @@ Equip {2}</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Choose card type, color, or mana value. Draw a card for each different quality of the chosen kind among cards you own in your graveyard and in exile.
+      <text>Choose card type, color, or mana value. Draw a card for each different quality of the chosen kind among cards you own in exile and in your graveyard.
 Recreate 7U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
@@ -3863,11 +3864,11 @@ I, II — Put three +1/-1 counters on a creature you control.
         <manacost></manacost>
         <cmc>4</cmc>
         <type>Legendary Creature - Human Horror </type>
-        <pt>0/7</pt>
+        <pt>6/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When this permanent transforms into Glestra, choose a number between 0 and the greatest power among creatures you controlled that died this turn. Put the chosen number of +1/-1 counters on Glestra. When you do, Glestra deals damage equal to her power to any target.
+Creatures you control have “Ward—Pay life equal to this creature’s power.”
 ---
 (Front): Consecrate Flesh</text>
       <related attach="transform">Consecrate Flesh</related>
@@ -4048,7 +4049,7 @@ Recreate XRR (You may cast this from your graveyard for its recreate cost reduce
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: When you next cast a spell this turn, draw a card, then discard a card unless the amount of mana spent to cast that spell is less than its mana value.</text>
+      <text>{1}, {T}: When you next cast a spell this turn, draw a card, then discard a card unless the amount of mana spent to cast that spell was less than its mana value.</text>
     </card>
     <card>
       <name>Through Eerie Woods</name>
@@ -4438,7 +4439,7 @@ Whenever another creature you control enters, if that creature has greater power
       <text>Flash
 Flying, vigilance
 Whenever Unmarked Helicopter or another nonland permanent you control enters during combat, you may have Unmarked Helicopter become an artifact creature until end of turn.
-Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</text>
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
     </card>
     <card>
       <name>Dysmorphosis Carrier</name>

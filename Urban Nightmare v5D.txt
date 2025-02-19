@@ -3161,11 +3161,11 @@
 		12 Rite of the Holy Flesh
 		12 Rite of the Ever-Worm
 		12 Rite of the Eschaton
-		63 Open Your Mind
-		63 Breach the Veil
-		63 Pay in Blood
-		63 Burn Worldly Ties
-		63 Wander in Dream
+		630 Open Your Mind
+		630 Breach the Veil
+		630 Pay in Blood
+		630 Burn Worldly Ties
+		630 Wander in Dream
 		12 Rite of the Ashen King
 		24 Pray for Unity
 		24 Seek the Archive
@@ -3173,11 +3173,11 @@
 		24 Consecrate Flesh
 		24 Beseech the First Ones
 		24 Fateful Excavation
-		63 Through Eerie Woods
-		63 On Empty Streets
-		63 Up Cryptic Spires
-		63 Down Twisted Corridors
-		63 Past Distant Thresholds
+		630 Through Eerie Woods
+		630 On Empty Streets
+		630 Up Cryptic Spires
+		630 Down Twisted Corridors
+		630 Past Distant Thresholds
 		168 Plains
 		168 Island
 		168 Swamp
