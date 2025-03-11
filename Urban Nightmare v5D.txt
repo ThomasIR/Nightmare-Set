@@ -225,12 +225,12 @@
 			}
 		},
 		{
-			"name": "Wayward Apparition",
+			"name": "Burdened Apparition",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Nightmare Spirit ",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Wayward Apparition.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Burdened Apparition.png"
 			}
 		},
 		{
@@ -426,7 +426,7 @@
 		{
 			"name": "Somnolent Snare",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Somnolent Snare.png"
@@ -435,7 +435,7 @@
 		{
 			"name": "Display of Talent",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Display of Talent.png"
@@ -831,7 +831,7 @@
 		{
 			"name": "Deathbed Caterpillar",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Creature — Insect ",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Deathbed Caterpillar.png"
@@ -1679,12 +1679,12 @@
 			}
 		},
 		{
-			"name": "Vessel of Corruption",
+			"name": "Well of Corruption",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"image_uris": {
-				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Vessel of Corruption.png"
+				"en": "https://raw.githubusercontent.com/ThomasIR/Nightmare-Set/main/Urban Nightmare v5D-files/Well of Corruption.png"
 			}
 		},
 		{
@@ -3023,7 +3023,7 @@
 		30 Invasive Paradigm
 		30 Agents of the Eschaton
 		30 Pineal Siphon
-		30 Vessel of Corruption
+		30 Well of Corruption
 		30 Consecrated Bus
 		30 Dangerous Idea
 		30 Hypnagogic Broadcast
@@ -3069,7 +3069,7 @@
 		30 Overgrown Pumpkin
 		30 Haunting Musician
 		30 Devout Occultist
-		30 Wayward Apparition
+		30 Burdened Apparition
 		30 Unsettling Watchers
 		30 Cold-Blooded Agent
 		30 Banishment Squad
@@ -3157,15 +3157,15 @@
 		30 Destructive Impulse
 		30 Spectral Guidance
 		[LandSlot(1)]
-	12 Rite of the All-Dream
+		12 Rite of the All-Dream
 		12 Rite of the Holy Flesh
 		12 Rite of the Ever-Worm
 		12 Rite of the Eschaton
-		630 Open Your Mind
-		630 Breach the Veil
-		630 Pay in Blood
-		630 Burn Worldly Ties
-		630 Wander in Dream
+		63 Open Your Mind
+		63 Breach the Veil
+		63 Pay in Blood
+		63 Burn Worldly Ties
+		63 Wander in Dream
 		12 Rite of the Ashen King
 		24 Pray for Unity
 		24 Seek the Archive
@@ -3173,11 +3173,11 @@
 		24 Consecrate Flesh
 		24 Beseech the First Ones
 		24 Fateful Excavation
-		630 Through Eerie Woods
-		630 On Empty Streets
-		630 Up Cryptic Spires
-		630 Down Twisted Corridors
-		630 Past Distant Thresholds
+		63 Through Eerie Woods
+		63 On Empty Streets
+		63 Up Cryptic Spires
+		63 Down Twisted Corridors
+		63 Past Distant Thresholds
 		168 Plains
 		168 Island
 		168 Swamp

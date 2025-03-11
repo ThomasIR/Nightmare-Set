@@ -59,7 +59,7 @@ Enchanted creature loses all abilities and is a colorless Human Citizen creature
         <cmc>3</cmc>
         <type>Creature - Nightmare Dog </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When Immemnon’s Retriever enters, exile up to one target card from a graveyard. Then if you own that card, put it on top of your library.</text>
@@ -370,7 +370,7 @@ Whenever Haunting Musician attacks, defending player loses 2 life.</text>
       <text>As long as it’s your turn and a card was put into exile this turn, Devout Occultist gets +1/+0 and has lifelink.</text>
     </card>
     <card>
-      <name>Wayward Apparition</name>
+      <name>Burdened Apparition</name>
       <set rarity="common">NOT</set>
       <prop>
         <colors>W</colors>
@@ -381,8 +381,8 @@ Whenever Haunting Musician attacks, defending player loses 2 life.</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Wayward Apparition enters with a +1/-1 counter on it.
-2W, Remove a +1/-1 counter from Wayward Apparition: Wayward Apparition gains indestructible until end of turn.</text>
+      <text>Whenever Burdened Apparition attacks, put a +1/-1 counter on it.
+{W}: Move a +1/-1 counter from Burdened Apparition onto another target creature you control. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Unsettling Watchers</name>
@@ -411,7 +411,7 @@ Omen 3W (As you attack, you may exile this card from your hand face down under a
         <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Cold-Blooded Agent enters, scry 1, then you gain 1 life and draw a card.</text>
+      <text>When Cold-Blooded Agent enters, surveil 1, then you gain 1 life and draw a card.</text>
     </card>
     <card>
       <name>Banishment Squad</name>
@@ -537,7 +537,7 @@ Omen 1W (As you attack, you may exile this card from your hand face down under a
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Until end of turn, target creature gets +1/+0 and gains your choice of first strike or lifelink. Scry 1.</text>
+      <text>Until end of turn, target creature gets +1/+0 and gains your choice of first strike or lifelink. Surveil 1.</text>
     </card>
     <card>
       <name>Miraculous Ascension</name>
@@ -580,7 +580,7 @@ Omen {W} (As you attack, you may exile this card from your hand face down under 
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an enchantment you control enters, target creature you control gets +2/+0 and gains lifelink until end of turn.</text>
+      <text>When Unanimist Clergy enters, mill three cards, then return an enchantment or Plains card from your graveyard to your hand.</text>
     </card>
     <card>
       <name>Rite of the All-Dream</name>
@@ -595,8 +595,8 @@ Omen {W} (As you attack, you may exile this card from your hand face down under 
       <tablerow>1</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 When Rite of the All-Dream enters, mill five cards, then return all land cards from your graveyard to the battlefield tapped.
-Pay GGGGG.
-I — Pay UUUUU.
+I — Pay GGGGG.
+II — Pay UUUUU.
 ---
 (Back): Immemnon</text>
       <related attach="transform">Immemnon</related>
@@ -733,13 +733,13 @@ You may play the top card of your library. Whenever you cast a spell this way, c
       <set rarity="common">NOT</set>
       <prop>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Tap up to two target creatures. Put a stun counter on each of them.
+      <text>Tap target creature. Put three stun counters on it.
 Recreate 4U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
@@ -747,8 +747,8 @@ Recreate 4U (You may cast this from your graveyard for its recreate cost reduced
       <set rarity="common">NOT</set>
       <prop>
         <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
@@ -1011,7 +1011,7 @@ Omen 1U (As you attack, you may exile this card from your hand face down under a
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-Whenever you cast a noncreature spell, scry 1. (Unless you sacrificed this to cast that spell.)</text>
+Whenever you cast a noncreature spell, surveil 1. (Unless you sacrificed this to cast that spell.)</text>
     </card>
     <card>
       <name>Caged Anomaly</name>
@@ -1053,7 +1053,7 @@ Whenever you cast a noncreature spell, scry 1. (Unless you sacrificed this to ca
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Midnight Apparition enters, exile up to two target cards from a single graveyard. For each creature card exiled this way, its owner loses 1 life.</text>
+When Midnight Apparition enters, exile up to two target cards from graveyards. For each creature card exiled this way, its owner loses 1 life.</text>
     </card>
     <card>
       <name>Doomed Dreamer</name>
@@ -1095,8 +1095,8 @@ When enchanted creature dies, return that card to the battlefield under your con
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Target opponent loses 2 life unless they discard a card. You gain 2 life and draw a card.
-Recreate 4B (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
+      <text>Target opponent may discard a card. If they don’t, you draw a card. Repeat this process once.
+Recreate 5B (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
       <name>Veteran Hemomancer</name>
@@ -1374,15 +1374,15 @@ Recreate 8G (You may cast this from your graveyard for its recreate cost reduced
       <set rarity="common">NOT</set>
       <prop>
         <colors>G</colors>
-        <manacost>1G</manacost>
-        <cmc>2</cmc>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
         <type>Creature - Insect </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Deathtouch
-{G}, Sacrifice Deathbed Caterpillar: Destroy target artifact or enchantment.</text>
+      <text>{G}: Deathbed Caterpillar gains deathtouch until end of turn.
+1G, Sacrifice Deathbed Caterpillar: Destroy target artifact or enchantment.</text>
     </card>
     <card>
       <name>Primal Fear</name>
@@ -1393,7 +1393,7 @@ Recreate 8G (You may cast this from your graveyard for its recreate cost reduced
         <cmc>6</cmc>
         <type>Creature - Nightmare Yeti </type>
         <maintype>Creature</maintype>
-        <pt>6/5</pt>
+        <pt>7/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Omen 3G (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 3G after the creature is gone.)</text>
@@ -1469,7 +1469,7 @@ Enchanted creature gets +2/+1 and can’t be blocked by more than one creature.<
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever an enchantment you control enters, Reclusive Occultist gets +1/+0 until end of turn, then scry 1.</text>
+      <text>Whenever an enchantment you control enters, Reclusive Occultist gets +1/+0 until end of turn, then surveil 1.</text>
     </card>
     <card>
       <name>Surreal Haze</name>
@@ -1680,8 +1680,8 @@ Whenever another creature you control dies, it deals damage equal to its power t
       </prop>
       <tablerow>1</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-When Open Your Mind enters, draw two cards.
-I, II — Discard a card.
+I — When Open Your Mind enters, draw two cards.
+II, III — Discard a card.
 ---
 (Back): Ego Parasite</text>
       <related attach="transform">Ego Parasite</related>
@@ -1976,8 +1976,8 @@ Whenever an enchantment you control enters, untap target creature you control. I
       </prop>
       <tablerow>1</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
-I, II, III — Exile five creature cards from a single graveyard.
+I — When Rite of the Ashen King enters, if you cast it, each player sacrifices all creatures they control.
+II, III — Exile five creature cards from a single graveyard.
 ---
 (Back): Czendramahlix</text>
       <related attach="transform">Czendramahlix</related>
@@ -2024,7 +2024,7 @@ Whenever Virulent Brainseeker attacks, target creature defending player controls
         <cmc>6</cmc>
         <type>Creature - Nightmare Worm </type>
         <maintype>Creature</maintype>
-        <pt>3/7</pt>
+        <pt>3/8</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Mutable (This creature is dealt damage in the form of +1/-1 counters.)
@@ -2041,7 +2041,7 @@ Maw of Hafnordrun must be blocked if able and can’t be blocked by more than on
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Create an X/X green Ooze Shapeshifter creature token with trample.
+      <text>Create an X/X green Ooze Shapeshifter creature token with trample and mutable. (It’s dealt damage in the form of +1/-1 counters.)
 Recreate XGGG (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
     <card>
@@ -2172,7 +2172,7 @@ When Hunted Aspirant enters, target opponent creates a 1/1 white Human Soldier c
       </prop>
       <tablerow>2</tablerow>
       <text>{1}, {T}: Add one mana of any color.
-{1}, {T}: Scry 1.</text>
+{1}, {T}: Surveil 1.</text>
     </card>
     <card>
       <name>Impossible Abduction</name>
@@ -2214,7 +2214,7 @@ Omen 2W (As you attack, you may exile this card from your hand face down under a
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Each creature you control with an omen gets +1/+0 and has “Untap this creature during each other player’s untap step.”</text>
+      <text>Each creature you control with an omen gets +1/+0 and has “You may untap this creature during each other player’s untap step.”</text>
     </card>
     <card>
       <name>Rescue from the Brink</name>
@@ -2271,7 +2271,8 @@ Omen 7G (As you attack, you may exile this card from your hand face down under a
         <pt>1/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever you cast a spell from your hand that targets Prized Subject, scry 1. If that spell is an instant or sorcery, exile it instead of putting it into your graveyard as it resolves. You may cast it for as long as it remains exiled.</text>
+      <text>When Prized Subject enters or dies, draw a card, then discard a card.
+Prized Subject is sacrificed to pay recreate costs as though its power were 3 greater.</text>
     </card>
     <card>
       <name>Deepspawn Siren</name>
@@ -2678,7 +2679,7 @@ When equipped creature dies, if it attacked this turn, draw two cards.
 Equip {3}</text>
     </card>
     <card>
-      <name>Vessel of Corruption</name>
+      <name>Well of Corruption</name>
       <set rarity="uncommon">NOT</set>
       <prop>
         <colors>B</colors>
@@ -2688,8 +2689,8 @@ Equip {3}</text>
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Whenever a creature you control with one or more counters on it dies, put that many +1/-1 counters on Vessel of Corruption.
-{B}: Move all +1/-1 counters from Vessel of Corruption onto target creature. Activate only as a sorcery.</text>
+      <text>Once each turn, when you put a +1/-1 counter on a creature you control, you may put a +1/-1 counter on Well of Corruption.
+{B}: Move all +1/-1 counters from Well of Corruption onto target creature. Activate only as a sorcery and only once each turn.</text>
     </card>
     <card>
       <name>The Archivist</name>
@@ -2767,7 +2768,7 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Scry 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and lose 2 life.</text>
+      <text>Surveil 1, then draw a card. You may reveal a Nightmare card from your hand. If you do, you draw another card and lose 2 life.</text>
     </card>
     <card>
       <name>Peter Welles, Reawakened</name>
@@ -2998,7 +2999,7 @@ Omen {R} (As you attack, you may exile this card from your hand face down under 
         <pt>0/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When Lamb of the One dies, create a colorless enchantment token named Crisis of Faith with “{2}, Sacrifice this enchantment: Scry 1. You gain 1 life.”
+      <text>When Lamb of the One dies, create a colorless enchantment token named Crisis of Faith with “{2}, Sacrifice this enchantment: Surveil 1. You gain 1 life.”
 Whenever an enchantment is put into your graveyard from the battlefield, return Lamb of the One from your graveyard to your hand.</text>
     </card>
     <card>
@@ -3040,7 +3041,7 @@ Whenever an enchantment is put into your graveyard from the battlefield, return 
         <cmc>4</cmc>
         <type>Creature - Nightmare Angel </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, vigilance
@@ -3160,7 +3161,7 @@ Haste</text>
         <cmc>6</cmc>
         <type>Creature - Nightmare Beast </type>
         <maintype>Creature</maintype>
-        <pt>7/5</pt>
+        <pt>8/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>You may pay 2G and reveal this card as you draw it. When you do, destroy target artifact or enchantment.
@@ -3390,7 +3391,7 @@ Whenever an aberrant creature deals combat damage, destroy it.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Scry 1, then draw a card. Then if an opponent has more cards in hand than you or this spell was an omen, return Missing Piece to its owner’s hand.
+      <text>Surveil 1, then draw a card. Then if an opponent has more cards in hand than you or this spell was an omen, return Missing Piece to its owner’s hand.
 Omen 1U (As you attack, you may exile this card from your hand face down under an attacking creature without an omen. Cast it for 1U after the creature is gone.)</text>
     </card>
     <card>
@@ -3815,8 +3816,8 @@ Put a creature or planeswalker card from a graveyard onto the battlefield under 
       </prop>
       <tablerow>1</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-I — Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
-II, III — Sacrifice two creatures.
+Once each turn, when Rite of the Angleworm enters or you sacrifice a creature, you may draw a card.
+I, II — Sacrifice two creatures.
 ---
 (Back): Demonic Betrayer</text>
       <related attach="transform">Demonic Betrayer</related>
@@ -3887,9 +3888,9 @@ Creatures you control have “Ward—Pay life equal to this creature’s power.�
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
 Hexproof
 Whenever Beseech the First Ones enters or you fulfill one of its rituals, you gain 5 life.
-Sacrifice any number of creatures with total power exactly 7.
-I — Exile six cards with different mana values from your graveyard.
-Pay WUBRG.
+I — Sacrifice any number of creatures with total power exactly 7.
+II — Exile six cards with different mana values from your graveyard.
+III — Pay WUBRG.
 ---
 (Back): Vestige of Hollow Stars</text>
       <related attach="transform">Vestige of Hollow Stars</related>
@@ -4049,7 +4050,7 @@ Recreate XRR (You may cast this from your graveyard for its recreate cost reduce
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{1}, {T}: When you next cast a spell this turn, draw a card, then discard a card unless the amount of mana spent to cast that spell was less than its mana value.</text>
+      <text>{1}, {T}: When you next cast a spell this turn, draw a card. Then discard a card unless the amount of mana spent to cast that spell was less than its mana value.</text>
     </card>
     <card>
       <name>Through Eerie Woods</name>
@@ -4063,10 +4064,10 @@ Recreate XRR (You may cast this from your graveyard for its recreate cost reduce
       </prop>
       <tablerow>0</tablerow>
       <text>(After your draw step, you may fulfill a ritual. Transform when all are fulfilled.)
-I, II — Hexproof
+Hexproof
 Through Eerie Woods enters tapped.
 {T}: Add {G}.
-III — Pay 2GG.
+I, II — Pay 2GG.
 ---
 (Back): Name-Shorn Clearing</text>
       <related attach="transform">Name-Shorn Clearing</related>
@@ -4118,7 +4119,7 @@ I, II — Pay 3WW.
       </prop>
       <tablerow>1</tablerow>
       <text>When this permanent transforms into Desolate Reflection, return any number of creatures you control to their owners’ hands.
-Whenever a nontoken creature you control leaves the battlefield, create a token that’s a copy of that creature, then exile it.
+Whenever a nontoken creature you control leaves the battlefield, create a token that’s a copy of that creature, then sacrifice it.
 ---
 (Front): On Empty Streets</text>
       <related attach="transform">On Empty Streets</related>
@@ -4481,7 +4482,7 @@ Whenever a permanent enchanted player controls becomes tapped, that player loses
         <pt>10/10</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as Looming Presence is untapped or attacking, other spells, permanents, and cards that aren’t on the battlefield treat it as though it doesn’t exist. (Even when it enters.)</text>
+      <text>As long as Looming Presence is untapped or attacking, other spells, permanents, and cards that aren’t on the battlefield treat it as though it didn’t exist. (Even when it enters.)</text>
     </card>
     <card>
       <name>Oppressive Dreamwarden</name>
@@ -4620,7 +4621,7 @@ Sacrifice Pansomnolence: Untap all permanents you control.</text>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Draw two cards, then discard a card.
+      <text>Draw two cards. If this spell was cast from your hand, discard a card.
 Recreate 4U (You may cast this from your graveyard for its recreate cost reduced by the power of a creature you sacrifice as you cast it this way. Then exile this.)</text>
     </card>
 
@@ -4761,7 +4762,8 @@ Recreate 4U (You may cast this from your graveyard for its recreate cost reduced
         <pt>*/*</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Trample</text>
+      <text>Trample
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
       <token>1</token>
       <reverse-related>Gelatinous Birth</reverse-related>
     </card>
@@ -4847,7 +4849,7 @@ Recreate 4U (You may cast this from your graveyard for its recreate cost reduced
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>{2}, Sacrifice this enchantment: Scry 1. You gain 1 life.</text>
+      <text>{2}, Sacrifice this enchantment: Surveil 1. You gain 1 life.</text>
       <token>1</token>
       <reverse-related>Lamb of the One</reverse-related>
     </card>
