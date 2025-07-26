@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <cards>
+
+    <card>
+      <name>Spirit NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Breach the Veil</reverse-related>
+      <reverse-related count="2">Ghostly Visitation</reverse-related>
+      <reverse-related>Solemn Gatekeeper</reverse-related>
+      <reverse-related>Atrocity Site</reverse-related>
+    </card>
+    <card>
+      <name>Thrull NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Thrull </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="10">Czendramahlix</reverse-related>
+      <reverse-related>Immortal Heir</reverse-related>
+      <reverse-related>Throne of Czendramahlix</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Doomed Dreamer</reverse-related>
+      <reverse-related>Crossroads Incursion</reverse-related>
+    </card>
+    <card>
+      <name>Treasure NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+      <reverse-related>Ingredient Smuggler</reverse-related>
+      <reverse-related>Burn Worldly Ties</reverse-related>
+      <reverse-related>Atziloteph</reverse-related>
+      <reverse-related>Chief Executive J Irdol III</reverse-related>
+    </card>
+    <card>
+      <name>Human Soldier NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Banishment Squad</reverse-related>
+      <reverse-related>Facility Expansion</reverse-related>
+      <reverse-related>Containment Squad</reverse-related>
+      <reverse-related>Hunted Aspirant</reverse-related>
+      <reverse-related>Hunted Monstrosity</reverse-related>
+    </card>
+    <card>
+      <name>Spirit Warlock NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Spirit Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace</text>
+      <token>1</token>
+      <reverse-related>Eager Deathseeker</reverse-related>
+    </card>
+    <card>
+      <name>Human Cleric NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+      <token>1</token>
+      <reverse-related count="2">Pray for Unity</reverse-related>
+      <reverse-related>Unanimist Zeitgeist</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare Wurm NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Nightmare Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}</text>
+      <token>1</token>
+      <reverse-related>Call from Beyond</reverse-related>
+    </card>
+    <card>
+      <name>Ooze Shapeshifter NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Ooze Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Mutable (This creature is dealt damage in the form of +1/-1 counters.)</text>
+      <token>1</token>
+      <reverse-related>Gelatinous Birth</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Spirit NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Shackle the Wind</reverse-related>
+    </card>
+    <card>
+      <name>Human Rogue NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Anomalous Escalation</reverse-related>
+      <reverse-related>Burn Worldly Ties</reverse-related>
+      <reverse-related count="2">Incite Turmoil</reverse-related>
+      <reverse-related>Protest Zone</reverse-related>
+    </card>
+    <card>
+      <name>Insect NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>BG</colors>
+        <type>Token Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+      <reverse-related>Infested Wormlich</reverse-related>
+    </card>
+    <card>
+      <name>Reflection NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>WR</colors>
+        <type>Token Creature - Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+      <reverse-related>Yl-Tesim</reverse-related>
+    </card>
+    <card>
+      <name>Heart of the Noosphere NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Legendary Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Hexproof
+{T}: Add WUBRG.</text>
+      <token>1</token>
+      <reverse-related>Mabil, Dreamscape Delver</reverse-related>
+    </card>
+    <card>
+      <name>Crisis of Faith NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Sacrifice this enchantment: Surveil 1. You gain 1 life.</text>
+      <token>1</token>
+      <reverse-related>Lamb of the One</reverse-related>
+    </card>
+    <card>
+      <name>Elemental NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>*/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+      <reverse-related>Occult Fascination</reverse-related>
+    </card>
+    <card>
+      <name>Nightmare Leviathan NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Nightmare Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Runaway Noosynthesis</reverse-related>
+    </card>
+    <card>
+      <name>Human Citizen NOT</name>
+      <set>NOT</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related count="2">Veil of Ignorance</reverse-related>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
